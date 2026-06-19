@@ -26,7 +26,7 @@ A JSD score of $0.0$ indicates perfect algorithmic alignment with human consumer
 This research cross-examined multiple architectures to observe the impact of parameter scaling on continuous data evaluation.
 
 * **Microsoft Phi-3 (3.8B):** Utilized as the primary edge-capable engine. Showed severe Center-Collapse natively but achieved near-perfect Mid-Tier alignment post-calibration.
-* **Llama-3.3-70B (Versatile):** Utilized as the frontier baseline. Natively overcame mathematical center-gravity due to parameter scaling.
+* **Llama-3.3-70B (Versatile):** Utilized via the Groq API as the frontier baseline. Natively overcame mathematical center-gravity due to parameter scaling.
 * **Google Gemma-2 (9B):** Evaluated for comparative mid-weight architectural variance.
 
 ---
@@ -44,7 +44,7 @@ This research cross-examined multiple architectures to observe the impact of par
 * **Implementation:** See `src/retail_simulator.py`.
 
 ### ✅ Experiment 3: Asymmetric Temperature Scaling (Success)
-* Approach: Dynamically altering the inference temperature $T$ based on the deterministic constraint of the consumer's income bracket $x$:
+* **Approach:** Dynamically altering the inference temperature $T$ based on the deterministic constraint of the consumer's income bracket $x$:
 $$T(x) = \begin{cases} 0.2 & \text{if } x \in \text{Low Income} \\ 0.4 & \text{if } x \in \text{Mid Income} \\ 0.65 & \text{if } x \in \text{High Income} \end{cases}$$
 * **Result:** Prevented low-income profiles from hallucinating premium purchases while allowing high-income profiles natural behavioral variance.
 * **Implementation:** See `src/bank_simulator.py`.
@@ -66,8 +66,28 @@ $$T(x) = \begin{cases} 0.2 & \text{if } x \in \text{Low Income} \\ 0.4 & \text{i
 
 ### Replication Scripts
 To replicate the thesis experiments, execute the following scripts in order:
-1.  **`python run_retail_validation.py`**: Validates the baseline RAG architecture against the UCI dataset.
-2.  **`python run_bank_validation.py`**: Validates Asymmetric Temperature Scaling.
-3.  **`python run_multi_agent_validation.py`**: Executes the Tri-Agent debate architecture.
-4.  **`python run_ablation_study.py`**: Runs the head-to-head comparison between Phi-3 (Local) and Llama-3.3-70B (Frontier).
-5.  **`python run_comparative_suite.py`**: Generates the final graphical market share comparisons across all models.
+1. **`python run_retail_validation.py`**: Validates the baseline RAG architecture against the UCI dataset.
+2. **`python run_bank_validation.py`**: Validates Asymmetric Temperature Scaling.
+3. **`python run_multi_agent_validation.py`**: Executes the Tri-Agent debate architecture.
+4. **`python run_ablation_study.py`**: Runs the head-to-head comparison between Phi-3 (Local) and Llama-3.3-70B (Frontier).
+5. **`python run_comparative_suite.py`**: Generates the final graphical market share comparisons across all models.
+
+---
+
+## 5. Datasets & Cross-Domain Validation
+
+To ensure the cognitive architectures were not overfit to a single scenario, the methodology was iteratively tested across three distinct industry environments:
+
+1. **Telecommunications Consumer Survey (Baseline):** An initial categorical dataset used to architect the foundational RAG pipeline and identify the native "Center-Collapse" bias in uncalibrated LLMs.
+2. **UCI Online Retail Dataset:** An e-commerce dataset utilized to map continuous RFM (Recency, Frequency, Monetary) volume to distinct spending tiers (Budget, Mid-Tier, VIP).
+3. **Banking & Credit Card Portfolio:** A highly imbalanced financial dataset used to test Asymmetric Temperature Scaling against strict income-bracket constraints.
+
+---
+
+## 6. Bayesian Anchoring (RAG Contextualization)
+
+To overcome the LLM's inability to natively map continuous economic variables, the architecture utilizes a 20% real-human calibration split. This methodology acts as a Bayesian anchor. By injecting real market priors (base rates) alongside localized nearest-neighbor profiles, the system provides the model with prior probabilities $P(C_i)$ and conditional peer evidence $E$ to inform its posterior choice distribution:
+
+$$P(C_i | E) \propto P(E | C_i) P(C_i)$$
+
+This structural grounding is what allows small-parameter edge models to match the complex behavioral distributions of true human populations.
