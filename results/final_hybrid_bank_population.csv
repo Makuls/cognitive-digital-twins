@@ -1,0 +1,1001 @@
+Customer_Age,Income_Category,Education_Level,data_source,final_choice
+48,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+59,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+37,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+47,$40K - $60K,Doctorate,Real Human (20% Calibration Base),Blue
+42,$80K - $120K,Unknown,Real Human (20% Calibration Base),Blue
+65,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+52,Unknown,Unknown,Real Human (20% Calibration Base),Blue
+58,Unknown,High School,Real Human (20% Calibration Base),Gold
+35,$40K - $60K,Doctorate,Real Human (20% Calibration Base),Blue
+48,$80K - $120K,College,Real Human (20% Calibration Base),Blue
+38,Unknown,Graduate,Real Human (20% Calibration Base),Blue
+41,$60K - $80K,Uneducated,Real Human (20% Calibration Base),Blue
+49,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+46,Less than $40K,High School,Real Human (20% Calibration Base),Blue
+41,$60K - $80K,Graduate,Real Human (20% Calibration Base),Blue
+46,$40K - $60K,Graduate,Real Human (20% Calibration Base),Blue
+50,Unknown,College,Real Human (20% Calibration Base),Blue
+64,Less than $40K,High School,Real Human (20% Calibration Base),Blue
+46,$80K - $120K,College,Real Human (20% Calibration Base),Blue
+49,$40K - $60K,Unknown,Real Human (20% Calibration Base),Blue
+42,$60K - $80K,Unknown,Real Human (20% Calibration Base),Blue
+47,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+48,Less than $40K,College,Real Human (20% Calibration Base),Blue
+49,$40K - $60K,Graduate,Real Human (20% Calibration Base),Blue
+43,$60K - $80K,Doctorate,Real Human (20% Calibration Base),Blue
+44,$60K - $80K,Uneducated,Real Human (20% Calibration Base),Blue
+56,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+54,Unknown,High School,Real Human (20% Calibration Base),Blue
+48,$60K - $80K,College,Real Human (20% Calibration Base),Gold
+61,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+48,Unknown,Graduate,Real Human (20% Calibration Base),Blue
+39,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+45,$40K - $60K,Graduate,Real Human (20% Calibration Base),Blue
+36,Less than $40K,Post-Graduate,Real Human (20% Calibration Base),Blue
+50,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+47,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+53,Less than $40K,College,Real Human (20% Calibration Base),Blue
+48,$60K - $80K,Unknown,Real Human (20% Calibration Base),Blue
+37,$40K - $60K,High School,Real Human (20% Calibration Base),Blue
+63,Less than $40K,High School,Real Human (20% Calibration Base),Blue
+38,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+52,$120K +,High School,Real Human (20% Calibration Base),Blue
+48,$60K - $80K,High School,Real Human (20% Calibration Base),Blue
+61,$60K - $80K,Graduate,Real Human (20% Calibration Base),Blue
+50,$60K - $80K,Unknown,Real Human (20% Calibration Base),Blue
+42,$80K - $120K,High School,Real Human (20% Calibration Base),Blue
+42,$60K - $80K,Graduate,Real Human (20% Calibration Base),Blue
+44,$60K - $80K,High School,Real Human (20% Calibration Base),Gold
+45,$60K - $80K,Graduate,Real Human (20% Calibration Base),Blue
+60,Less than $40K,High School,Real Human (20% Calibration Base),Blue
+43,$60K - $80K,College,Real Human (20% Calibration Base),Blue
+45,$40K - $60K,Graduate,Real Human (20% Calibration Base),Blue
+54,Less than $40K,Unknown,Real Human (20% Calibration Base),Blue
+54,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+59,Less than $40K,Post-Graduate,Real Human (20% Calibration Base),Blue
+60,Unknown,Graduate,Real Human (20% Calibration Base),Blue
+58,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+46,$40K - $60K,Uneducated,Real Human (20% Calibration Base),Blue
+52,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+39,$40K - $60K,Graduate,Real Human (20% Calibration Base),Blue
+49,Unknown,College,Real Human (20% Calibration Base),Blue
+53,Less than $40K,Graduate,Real Human (20% Calibration Base),Silver
+56,$60K - $80K,Unknown,Real Human (20% Calibration Base),Blue
+39,$60K - $80K,Graduate,Real Human (20% Calibration Base),Blue
+51,$60K - $80K,Uneducated,Real Human (20% Calibration Base),Blue
+56,Less than $40K,High School,Real Human (20% Calibration Base),Blue
+45,Less than $40K,Doctorate,Real Human (20% Calibration Base),Blue
+27,Less than $40K,Post-Graduate,Real Human (20% Calibration Base),Blue
+43,Unknown,Doctorate,Real Human (20% Calibration Base),Blue
+54,$80K - $120K,High School,Real Human (20% Calibration Base),Blue
+42,$60K - $80K,College,Real Human (20% Calibration Base),Blue
+43,Unknown,Graduate,Real Human (20% Calibration Base),Blue
+53,$80K - $120K,Graduate,Real Human (20% Calibration Base),Blue
+32,Unknown,Graduate,Real Human (20% Calibration Base),Blue
+56,Less than $40K,High School,Real Human (20% Calibration Base),Blue
+54,$40K - $60K,Post-Graduate,Real Human (20% Calibration Base),Blue
+58,$60K - $80K,Graduate,Real Human (20% Calibration Base),Blue
+39,$60K - $80K,High School,Real Human (20% Calibration Base),Blue
+41,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+51,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+55,Less than $40K,College,Real Human (20% Calibration Base),Blue
+56,Less than $40K,College,Real Human (20% Calibration Base),Blue
+34,Less than $40K,College,Real Human (20% Calibration Base),Blue
+49,$60K - $80K,Unknown,Real Human (20% Calibration Base),Blue
+44,$40K - $60K,Unknown,Real Human (20% Calibration Base),Blue
+38,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+49,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+36,$120K +,High School,Real Human (20% Calibration Base),Blue
+62,Unknown,Unknown,Real Human (20% Calibration Base),Blue
+35,Unknown,High School,Real Human (20% Calibration Base),Blue
+45,$40K - $60K,Graduate,Real Human (20% Calibration Base),Blue
+51,$40K - $60K,Graduate,Real Human (20% Calibration Base),Blue
+47,$120K +,Graduate,Real Human (20% Calibration Base),Blue
+49,$40K - $60K,Doctorate,Real Human (20% Calibration Base),Blue
+49,$80K - $120K,High School,Real Human (20% Calibration Base),Blue
+46,$60K - $80K,Unknown,Real Human (20% Calibration Base),Blue
+36,Less than $40K,Unknown,Real Human (20% Calibration Base),Blue
+38,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+42,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+48,Unknown,Graduate,Real Human (20% Calibration Base),Blue
+40,Less than $40K,Post-Graduate,Real Human (20% Calibration Base),Silver
+45,$60K - $80K,Unknown,Real Human (20% Calibration Base),Silver
+51,$120K +,College,Real Human (20% Calibration Base),Silver
+50,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+44,$40K - $60K,Uneducated,Real Human (20% Calibration Base),Blue
+46,Less than $40K,Post-Graduate,Real Human (20% Calibration Base),Blue
+38,$80K - $120K,College,Real Human (20% Calibration Base),Blue
+42,$40K - $60K,Uneducated,Real Human (20% Calibration Base),Blue
+40,$40K - $60K,Graduate,Real Human (20% Calibration Base),Blue
+37,$40K - $60K,Unknown,Real Human (20% Calibration Base),Blue
+53,$60K - $80K,Uneducated,Real Human (20% Calibration Base),Blue
+55,Less than $40K,College,Real Human (20% Calibration Base),Blue
+47,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+63,$60K - $80K,Unknown,Real Human (20% Calibration Base),Silver
+48,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+57,$80K - $120K,Uneducated,Real Human (20% Calibration Base),Blue
+56,$80K - $120K,High School,Real Human (20% Calibration Base),Blue
+38,$80K - $120K,Graduate,Real Human (20% Calibration Base),Blue
+44,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+46,Less than $40K,Doctorate,Real Human (20% Calibration Base),Blue
+64,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+26,$40K - $60K,College,Real Human (20% Calibration Base),Blue
+26,Less than $40K,Unknown,Real Human (20% Calibration Base),Blue
+50,$80K - $120K,High School,Real Human (20% Calibration Base),Silver
+48,Less than $40K,High School,Real Human (20% Calibration Base),Blue
+46,Less than $40K,Doctorate,Real Human (20% Calibration Base),Blue
+44,$60K - $80K,Uneducated,Real Human (20% Calibration Base),Silver
+50,$80K - $120K,High School,Real Human (20% Calibration Base),Blue
+50,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+38,$40K - $60K,Uneducated,Real Human (20% Calibration Base),Blue
+55,$120K +,High School,Real Human (20% Calibration Base),Blue
+61,$40K - $60K,Uneducated,Real Human (20% Calibration Base),Blue
+44,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+59,$60K - $80K,Uneducated,Real Human (20% Calibration Base),Blue
+47,$60K - $80K,Graduate,Real Human (20% Calibration Base),Blue
+51,$60K - $80K,Uneducated,Real Human (20% Calibration Base),Blue
+34,$40K - $60K,Graduate,Real Human (20% Calibration Base),Blue
+62,$120K +,Graduate,Real Human (20% Calibration Base),Blue
+38,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+45,Unknown,Graduate,Real Human (20% Calibration Base),Blue
+37,$80K - $120K,Uneducated,Real Human (20% Calibration Base),Blue
+46,$40K - $60K,High School,Real Human (20% Calibration Base),Blue
+42,Less than $40K,College,Real Human (20% Calibration Base),Blue
+58,$80K - $120K,Uneducated,Real Human (20% Calibration Base),Blue
+45,$120K +,Uneducated,Real Human (20% Calibration Base),Blue
+33,Unknown,Doctorate,Real Human (20% Calibration Base),Blue
+36,Less than $40K,Post-Graduate,Real Human (20% Calibration Base),Blue
+30,$80K - $120K,Graduate,Real Human (20% Calibration Base),Blue
+35,$80K - $120K,Graduate,Real Human (20% Calibration Base),Blue
+42,Unknown,Graduate,Real Human (20% Calibration Base),Blue
+47,Less than $40K,Uneducated,Real Human (20% Calibration Base),Blue
+33,$40K - $60K,College,Real Human (20% Calibration Base),Blue
+44,$80K - $120K,Unknown,Real Human (20% Calibration Base),Blue
+42,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+55,$40K - $60K,Graduate,Real Human (20% Calibration Base),Blue
+45,$40K - $60K,College,Real Human (20% Calibration Base),Blue
+48,$40K - $60K,Uneducated,Real Human (20% Calibration Base),Blue
+41,Less than $40K,Uneducated,Real Human (20% Calibration Base),Gold
+53,$60K - $80K,High School,Real Human (20% Calibration Base),Blue
+57,$60K - $80K,Post-Graduate,Real Human (20% Calibration Base),Blue
+61,$60K - $80K,High School,Real Human (20% Calibration Base),Blue
+38,Less than $40K,Doctorate,Real Human (20% Calibration Base),Blue
+43,$40K - $60K,Unknown,Real Human (20% Calibration Base),Blue
+60,$60K - $80K,Uneducated,Real Human (20% Calibration Base),Blue
+42,$40K - $60K,High School,Real Human (20% Calibration Base),Blue
+37,$40K - $60K,Unknown,Real Human (20% Calibration Base),Blue
+46,Less than $40K,College,Real Human (20% Calibration Base),Blue
+51,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+43,$60K - $80K,Post-Graduate,Real Human (20% Calibration Base),Gold
+57,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+53,$120K +,Uneducated,Real Human (20% Calibration Base),Blue
+41,Less than $40K,High School,Real Human (20% Calibration Base),Blue
+44,Less than $40K,College,Real Human (20% Calibration Base),Blue
+53,$40K - $60K,Unknown,Real Human (20% Calibration Base),Blue
+47,$60K - $80K,College,Real Human (20% Calibration Base),Blue
+43,$40K - $60K,College,Real Human (20% Calibration Base),Blue
+37,$60K - $80K,Unknown,Real Human (20% Calibration Base),Blue
+50,Less than $40K,Unknown,Real Human (20% Calibration Base),Blue
+40,$60K - $80K,Unknown,Real Human (20% Calibration Base),Blue
+45,$80K - $120K,Graduate,Real Human (20% Calibration Base),Blue
+46,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+42,Less than $40K,Unknown,Real Human (20% Calibration Base),Blue
+53,Less than $40K,Unknown,Real Human (20% Calibration Base),Blue
+63,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+40,Less than $40K,High School,Real Human (20% Calibration Base),Blue
+49,Less than $40K,Post-Graduate,Real Human (20% Calibration Base),Blue
+45,$60K - $80K,Graduate,Real Human (20% Calibration Base),Blue
+47,$40K - $60K,Doctorate,Real Human (20% Calibration Base),Blue
+52,Less than $40K,Unknown,Real Human (20% Calibration Base),Blue
+52,$80K - $120K,High School,Real Human (20% Calibration Base),Blue
+66,Unknown,Doctorate,Real Human (20% Calibration Base),Blue
+33,Less than $40K,Graduate,Real Human (20% Calibration Base),Blue
+55,$120K +,High School,Real Human (20% Calibration Base),Blue
+46,$80K - $120K,Graduate,Real Human (20% Calibration Base),Blue
+39,Unknown,Uneducated,Real Human (20% Calibration Base),Silver
+58,$120K +,Graduate,Real Human (20% Calibration Base),Blue
+57,Less than $40K,Unknown,Real Human (20% Calibration Base),Blue
+42,$60K - $80K,Graduate,Real Human (20% Calibration Base),Blue
+35,$60K - $80K,Uneducated,Real Human (20% Calibration Base),Blue
+53,$40K - $60K,Uneducated,Real Human (20% Calibration Base),Blue
+38,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+46,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+57,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+58,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+33,Unknown,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+36,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+35,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+48,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+50,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+44,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+57,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+62,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+46,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+73,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+60,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+36,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Silver
+51,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+59,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+31,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+31,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+41,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Silver
+46,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+47,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+36,$60K - $80K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+39,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+46,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+54,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+34,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+46,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+46,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+41,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+48,Unknown,High School,Synthetic Twin (Phi-3 Engine),Gold
+59,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+52,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+54,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+58,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+41,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+50,$120K +,College,Synthetic Twin (Phi-3 Engine),Gold
+41,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+40,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+57,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+65,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+44,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+56,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+39,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+38,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+41,$120K +,College,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+30,$40K - $60K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+46,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+42,Unknown,College,Synthetic Twin (Phi-3 Engine),Blue
+55,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+41,$60K - $80K,College,Synthetic Twin (Phi-3 Engine),Blue
+36,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+54,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+42,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+32,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+39,$60K - $80K,College,Synthetic Twin (Phi-3 Engine),Blue
+43,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+43,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+38,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+44,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+53,$120K +,Post-Graduate,Synthetic Twin (Phi-3 Engine),Gold
+47,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+61,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+40,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+50,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+49,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+30,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+60,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+57,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+39,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Blue
+52,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+54,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+65,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+42,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+55,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+35,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+45,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+54,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+47,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+46,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+39,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+49,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+35,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+58,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+54,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+59,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+57,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+47,$120K +,Doctorate,Synthetic Twin (Phi-3 Engine),Gold
+53,$40K - $60K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+46,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Silver
+48,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+34,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+52,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+52,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+37,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+40,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+46,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,$40K - $60K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+34,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+45,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+40,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+46,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Silver
+36,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+49,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+36,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+38,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+54,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+46,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Silver
+52,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+36,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+48,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+46,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+42,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+48,$80K - $120K,College,Synthetic Twin (Phi-3 Engine),Blue
+35,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+40,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+41,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+39,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+44,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+65,Unknown,High School,Synthetic Twin (Phi-3 Engine),Gold
+46,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Gold
+45,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+57,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+42,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+54,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+51,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,Unknown,College,Synthetic Twin (Phi-3 Engine),Blue
+56,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+31,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+50,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+33,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+30,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+45,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Silver
+46,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+57,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+46,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+38,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+42,Unknown,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+36,$60K - $80K,College,Synthetic Twin (Phi-3 Engine),Blue
+33,Unknown,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+52,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+45,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+27,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+60,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+65,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+46,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+57,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+48,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+47,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+42,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+38,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+51,Unknown,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+44,$80K - $120K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+50,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Gold
+44,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Gold
+47,$40K - $60K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+41,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+36,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+33,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+41,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+50,$40K - $60K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Gold
+41,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+45,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+39,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+52,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+48,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+37,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+35,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+64,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+48,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+65,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+39,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+47,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+61,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+62,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+54,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+36,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+32,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Gold
+26,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+36,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+28,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+45,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+47,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+65,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+37,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+48,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+50,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+35,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+34,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+38,$80K - $120K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+56,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+41,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+55,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+38,$80K - $120K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+46,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+36,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+46,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+51,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+46,$80K - $120K,College,Synthetic Twin (Phi-3 Engine),Blue
+47,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+62,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+56,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+48,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+39,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+39,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+55,$60K - $80K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+40,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,$40K - $60K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+58,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+38,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+40,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+38,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+63,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+52,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+34,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+52,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,$80K - $120K,College,Synthetic Twin (Phi-3 Engine),Blue
+39,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+29,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+54,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+58,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+52,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+51,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Silver
+50,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+42,$80K - $120K,College,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+37,$120K +,Doctorate,Synthetic Twin (Phi-3 Engine),Gold
+48,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+41,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+36,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,$80K - $120K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+41,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+59,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+37,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Blue
+48,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+39,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+39,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+50,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+26,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+36,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+41,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+39,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+42,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+39,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+48,$60K - $80K,Doctorate,Synthetic Twin (Phi-3 Engine),Gold
+46,$120K +,Doctorate,Synthetic Twin (Phi-3 Engine),Gold
+48,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+64,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+51,$120K +,Doctorate,Synthetic Twin (Phi-3 Engine),Gold
+48,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+45,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Gold
+36,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+54,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+46,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+65,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+65,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+54,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+41,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+40,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+49,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Blue
+38,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+36,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+46,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+49,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+52,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+30,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+44,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Silver
+54,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+52,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+46,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+33,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+64,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+45,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+49,Unknown,Doctorate,Synthetic Twin (Phi-3 Engine),Gold
+41,$40K - $60K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,$60K - $80K,College,Synthetic Twin (Phi-3 Engine),Gold
+49,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+31,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,$80K - $120K,College,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+57,Unknown,High School,Synthetic Twin (Phi-3 Engine),Gold
+30,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+46,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+52,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+52,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+30,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+37,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+54,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+55,$60K - $80K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,Unknown,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+46,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+56,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+41,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+38,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+51,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+31,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+36,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Silver
+56,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Gold
+40,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+44,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+48,$40K - $60K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+44,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,$60K - $80K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+41,$40K - $60K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+40,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+37,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Gold
+62,Unknown,High School,Synthetic Twin (Phi-3 Engine),Gold
+40,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+56,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+44,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+41,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+52,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+53,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+30,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+30,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+60,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+37,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+49,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Blue
+48,$60K - $80K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Gold
+53,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+47,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Silver
+47,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+50,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Silver
+43,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+42,$40K - $60K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+50,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Gold
+39,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+55,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+47,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+50,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+46,$60K - $80K,College,Synthetic Twin (Phi-3 Engine),Gold
+49,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+32,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+39,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+59,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+52,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+46,$80K - $120K,College,Synthetic Twin (Phi-3 Engine),Blue
+38,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+51,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+61,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+33,$80K - $120K,College,Synthetic Twin (Phi-3 Engine),Blue
+52,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+26,Unknown,College,Synthetic Twin (Phi-3 Engine),Blue
+35,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+54,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+48,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+54,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Blue
+54,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+36,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+53,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,$80K - $120K,College,Synthetic Twin (Phi-3 Engine),Blue
+65,Unknown,High School,Synthetic Twin (Phi-3 Engine),Gold
+50,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Silver
+45,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+59,$60K - $80K,College,Synthetic Twin (Phi-3 Engine),Gold
+37,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+52,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+51,$120K +,College,Synthetic Twin (Phi-3 Engine),Gold
+61,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+55,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+33,Unknown,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+59,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+53,Unknown,College,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+41,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+33,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+53,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+48,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+55,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+39,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+48,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+35,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+53,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+42,$60K - $80K,College,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+38,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+45,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Gold
+46,$60K - $80K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+56,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+55,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+62,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+50,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+34,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+57,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+35,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+46,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Silver
+56,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+52,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+38,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+48,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+46,$60K - $80K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Gold
+50,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+43,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+34,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+33,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+59,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+41,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+40,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+37,$80K - $120K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Gold
+57,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Gold
+41,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+33,$80K - $120K,College,Synthetic Twin (Phi-3 Engine),Blue
+45,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+53,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+37,$60K - $80K,College,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+53,Unknown,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+40,$60K - $80K,College,Synthetic Twin (Phi-3 Engine),Blue
+56,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+48,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,Unknown,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Silver
+44,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+43,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+59,$60K - $80K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+33,$80K - $120K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+40,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Silver
+45,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Silver
+46,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+45,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+46,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+36,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+37,$80K - $120K,Doctorate,Synthetic Twin (Phi-3 Engine),Gold
+55,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+64,Unknown,High School,Synthetic Twin (Phi-3 Engine),Gold
+58,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+35,$40K - $60K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+53,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Blue
+44,Unknown,College,Synthetic Twin (Phi-3 Engine),Blue
+61,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+49,$60K - $80K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+35,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+57,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+47,$60K - $80K,College,Synthetic Twin (Phi-3 Engine),Gold
+34,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+46,Unknown,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Silver
+45,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+60,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+41,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+42,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+61,$40K - $60K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+60,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+53,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+59,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+61,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+46,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+26,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+59,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Gold
+52,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Blue
+59,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+27,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+42,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+55,$80K - $120K,College,Synthetic Twin (Phi-3 Engine),Blue
+48,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+65,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+50,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+51,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+48,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,$40K - $60K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Silver
+37,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+32,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+59,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+44,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Gold
+55,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+61,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+47,$40K - $60K,High School,Synthetic Twin (Phi-3 Engine),Blue
+61,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+33,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+56,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+42,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+41,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+35,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+55,Unknown,College,Synthetic Twin (Phi-3 Engine),Blue
+35,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+55,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+57,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+50,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,$80K - $120K,Doctorate,Synthetic Twin (Phi-3 Engine),Gold
+47,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Silver
+47,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+57,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+46,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+48,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+39,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+26,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+40,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+42,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+55,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Silver
+46,Unknown,College,Synthetic Twin (Phi-3 Engine),Silver
+45,$80K - $120K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+39,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+33,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+51,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+42,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,$60K - $80K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+44,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+41,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+42,$120K +,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+55,$120K +,Doctorate,Synthetic Twin (Phi-3 Engine),Gold
+62,Unknown,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+31,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+41,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Gold
+35,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+57,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+46,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+53,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+45,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+26,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+60,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+37,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+45,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+48,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+33,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+43,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Silver
+43,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+59,$40K - $60K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+51,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+32,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+37,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+42,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+46,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+41,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+50,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+49,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Silver
+55,Unknown,College,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+53,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,Unknown,High School,Synthetic Twin (Phi-3 Engine),Blue
+41,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Gold
+41,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+52,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+54,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+48,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+41,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+59,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+36,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+58,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Gold
+36,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+42,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+39,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+37,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+45,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Gold
+32,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+53,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+50,$80K - $120K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+56,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+41,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+62,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+48,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+37,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+47,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+45,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+49,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+54,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+40,$60K - $80K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+32,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+48,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+44,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Gold
+54,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+50,$60K - $80K,Doctorate,Synthetic Twin (Phi-3 Engine),Silver
+48,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+39,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+41,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+51,$60K - $80K,High School,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+43,$40K - $60K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+48,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+43,$40K - $60K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+56,Unknown,Unknown,Synthetic Twin (Phi-3 Engine),Gold
+43,$120K +,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+54,Unknown,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+41,Less than $40K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+28,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+53,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+36,$40K - $60K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+51,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+36,$120K +,College,Synthetic Twin (Phi-3 Engine),Blue
+49,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+64,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+43,$80K - $120K,High School,Synthetic Twin (Phi-3 Engine),Blue
+38,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+36,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,$120K +,High School,Synthetic Twin (Phi-3 Engine),Blue
+33,$60K - $80K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+29,Less than $40K,College,Synthetic Twin (Phi-3 Engine),Blue
+47,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+43,$120K +,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+29,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+50,Unknown,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+51,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,Post-Graduate,Synthetic Twin (Phi-3 Engine),Blue
+44,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+37,$80K - $120K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+40,$60K - $80K,Uneducated,Synthetic Twin (Phi-3 Engine),Blue
+41,Less than $40K,Uneducated,Synthetic Twin (Phi-3 Engine),Gold
+56,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+43,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+30,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+43,$40K - $60K,Doctorate,Synthetic Twin (Phi-3 Engine),Blue
+60,Less than $40K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+37,$40K - $60K,College,Synthetic Twin (Phi-3 Engine),Blue
+44,$80K - $120K,Unknown,Synthetic Twin (Phi-3 Engine),Blue
+50,Less than $40K,High School,Synthetic Twin (Phi-3 Engine),Blue
+54,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Blue
+56,$60K - $80K,Doctorate,Synthetic Twin (Phi-3 Engine),Gold
+53,Less than $40K,Graduate,Synthetic Twin (Phi-3 Engine),Silver

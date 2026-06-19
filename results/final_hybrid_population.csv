@@ -1,0 +1,801 @@
+age,income_tier,primary_use,data_source,final_choice
+21,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+48,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+29,Low,Voice,Real Human (20% Calibration Base),Option A
+30,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+22,Low,Voice,Real Human (20% Calibration Base),Option B
+71,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+31,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+21,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+42,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+50,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+20,Medium,Gaming,Real Human (20% Calibration Base),Option A
+62,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+68,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+60,Low,Streaming,Real Human (20% Calibration Base),Option A
+42,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+35,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+21,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+19,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+50,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+52,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+71,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+62,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+26,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+43,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+21,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+29,Low,Browsing,Real Human (20% Calibration Base),Option A
+38,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+50,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+74,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+22,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+25,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+51,High,Streaming,Real Human (20% Calibration Base),Option A
+64,High,Gaming,Synthetic Twin (Phi-3 Engine),Option C
+31,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+63,High,Streaming,Real Human (20% Calibration Base),Option A
+33,Medium,Browsing,Real Human (20% Calibration Base),Option B
+20,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+74,High,Gaming,Synthetic Twin (Phi-3 Engine),Option C
+28,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+18,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+37,High,Streaming,Real Human (20% Calibration Base),Option A
+36,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+20,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+72,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+37,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+40,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+73,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+45,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option C
+73,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+34,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+51,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+31,High,Streaming,Real Human (20% Calibration Base),Option A
+31,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+30,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+54,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+33,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+39,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+22,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+20,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+45,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+48,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+18,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+23,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+22,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+63,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+27,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+35,Medium,Gaming,Real Human (20% Calibration Base),Option A
+45,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+73,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+34,Medium,Browsing,Real Human (20% Calibration Base),Option C
+65,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+71,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+21,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+44,Medium,Streaming,Real Human (20% Calibration Base),Option C
+73,High,Streaming,Real Human (20% Calibration Base),Option A
+38,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+66,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+65,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+66,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+40,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+41,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+35,Low,Voice,Real Human (20% Calibration Base),Option C
+33,Medium,Gaming,Real Human (20% Calibration Base),Option A
+19,High,Streaming,Real Human (20% Calibration Base),Option A
+47,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+36,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+34,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+20,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+27,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+35,Medium,Streaming,Real Human (20% Calibration Base),Option A
+24,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+74,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+24,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+23,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+20,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+53,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+20,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+27,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+52,High,Streaming,Real Human (20% Calibration Base),Option B
+36,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+50,High,Streaming,Real Human (20% Calibration Base),Option C
+32,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+42,Low,Voice,Real Human (20% Calibration Base),Option B
+45,Low,Voice,Real Human (20% Calibration Base),Option B
+31,Low,Voice,Real Human (20% Calibration Base),Option B
+50,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+51,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+61,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+53,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+32,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+24,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+28,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+75,High,Streaming,Real Human (20% Calibration Base),Option A
+44,Medium,Gaming,Real Human (20% Calibration Base),Option B
+69,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+27,Low,Voice,Real Human (20% Calibration Base),Option C
+26,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+75,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+43,Low,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+22,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+39,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+79,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+28,Low,Browsing,Real Human (20% Calibration Base),Option A
+36,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+60,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+30,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+33,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+23,Low,Voice,Real Human (20% Calibration Base),Option B
+43,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+25,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+51,Low,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+38,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+23,Low,Voice,Real Human (20% Calibration Base),Option C
+31,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+66,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+47,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+35,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+51,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+21,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+30,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+45,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+19,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+20,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+44,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+62,Medium,Gaming,Real Human (20% Calibration Base),Option A
+47,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+44,Medium,Streaming,Real Human (20% Calibration Base),Option A
+37,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+35,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+25,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+53,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+28,Low,Browsing,Real Human (20% Calibration Base),Option A
+39,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+41,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+43,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option B
+49,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+44,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+50,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+68,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+76,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+34,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+49,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+24,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+37,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+28,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+20,High,Streaming,Real Human (20% Calibration Base),Option B
+36,High,Streaming,Real Human (20% Calibration Base),Option A
+44,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+48,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+41,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+60,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+34,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+31,Low,Voice,Real Human (20% Calibration Base),Option C
+44,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+34,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+38,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+47,High,Streaming,Real Human (20% Calibration Base),Option B
+63,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+24,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+50,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+53,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+34,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+19,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+28,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+34,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+29,Low,Voice,Real Human (20% Calibration Base),Option A
+24,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+74,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+51,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+53,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+66,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+40,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+22,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+73,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+76,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+19,Low,Voice,Real Human (20% Calibration Base),Option C
+68,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+50,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+52,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+28,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+39,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+25,Medium,Gaming,Real Human (20% Calibration Base),Option B
+27,Medium,Gaming,Real Human (20% Calibration Base),Option A
+54,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+41,Medium,Streaming,Real Human (20% Calibration Base),Option A
+42,Medium,Gaming,Real Human (20% Calibration Base),Option A
+26,Medium,Browsing,Real Human (20% Calibration Base),Option C
+20,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+38,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+47,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+51,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+43,Medium,Streaming,Real Human (20% Calibration Base),Option C
+32,Medium,Streaming,Real Human (20% Calibration Base),Option B
+31,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+30,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+33,Low,Voice,Real Human (20% Calibration Base),Option C
+33,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+38,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+72,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+21,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+41,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+20,Medium,Streaming,Real Human (20% Calibration Base),Option C
+20,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+23,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+29,High,Streaming,Real Human (20% Calibration Base),Option A
+26,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+19,Medium,Gaming,Real Human (20% Calibration Base),Option A
+54,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+47,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+30,Low,Voice,Real Human (20% Calibration Base),Option C
+28,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+32,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+41,Medium,Browsing,Real Human (20% Calibration Base),Option A
+43,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+52,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+41,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+67,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+53,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+52,Medium,Streaming,Real Human (20% Calibration Base),Option B
+26,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+47,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+40,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+32,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+74,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+44,High,Gaming,Real Human (20% Calibration Base),Option A
+22,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+33,High,Streaming,Real Human (20% Calibration Base),Option B
+45,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+31,Medium,Gaming,Real Human (20% Calibration Base),Option A
+62,High,Gaming,Synthetic Twin (Phi-3 Engine),Option C
+44,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+41,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+75,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+35,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+31,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+29,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+36,Low,Voice,Real Human (20% Calibration Base),Option C
+35,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+52,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+69,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+79,High,Streaming,Real Human (20% Calibration Base),Option C
+27,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+31,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+31,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+74,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+43,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+37,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+41,High,Streaming,Real Human (20% Calibration Base),Option C
+38,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+78,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+40,Medium,Streaming,Real Human (20% Calibration Base),Option C
+31,High,Gaming,Real Human (20% Calibration Base),Option A
+29,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+36,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+18,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+64,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+33,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+23,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+33,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+72,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+28,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+25,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+53,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+52,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+54,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+20,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+47,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+50,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+72,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+50,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+27,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+24,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+25,High,Streaming,Real Human (20% Calibration Base),Option C
+47,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+37,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+35,Low,Voice,Real Human (20% Calibration Base),Option C
+34,High,Streaming,Real Human (20% Calibration Base),Option B
+50,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+40,Medium,Browsing,Real Human (20% Calibration Base),Option B
+63,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+45,Medium,Gaming,Real Human (20% Calibration Base),Option C
+38,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+38,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+38,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+38,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+41,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+28,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+41,High,Gaming,Real Human (20% Calibration Base),Option A
+73,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+61,Medium,Streaming,Real Human (20% Calibration Base),Option B
+46,Low,Voice,Real Human (20% Calibration Base),Option B
+78,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+34,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+31,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+23,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+72,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+72,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+30,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+42,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+47,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+30,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+73,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+79,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+30,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+31,Medium,Browsing,Real Human (20% Calibration Base),Option B
+49,Medium,Streaming,Real Human (20% Calibration Base),Option C
+26,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+48,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+75,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+50,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+37,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+37,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+51,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+24,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+22,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+35,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+23,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+31,High,Streaming,Real Human (20% Calibration Base),Option B
+52,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+78,High,Streaming,Real Human (20% Calibration Base),Option A
+38,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+34,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+45,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+36,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+78,High,Gaming,Synthetic Twin (Phi-3 Engine),Option C
+44,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option B
+21,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+72,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+66,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+47,High,Streaming,Real Human (20% Calibration Base),Option B
+49,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+40,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+33,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+34,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+22,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+51,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+18,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+51,High,Streaming,Real Human (20% Calibration Base),Option A
+49,High,Streaming,Real Human (20% Calibration Base),Option C
+37,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+28,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+28,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+46,Medium,Gaming,Real Human (20% Calibration Base),Option A
+34,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+20,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+43,Low,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+39,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+34,High,Streaming,Real Human (20% Calibration Base),Option B
+35,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+71,High,Streaming,Real Human (20% Calibration Base),Option A
+45,High,Streaming,Real Human (20% Calibration Base),Option A
+31,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+28,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+46,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+50,Low,Voice,Real Human (20% Calibration Base),Option B
+25,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+68,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+44,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+39,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+43,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+20,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+47,Low,Voice,Real Human (20% Calibration Base),Option C
+41,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+34,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+54,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+19,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+20,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+46,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+31,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+32,Low,Voice,Real Human (20% Calibration Base),Option C
+28,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+79,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+19,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+31,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+48,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+26,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+33,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+69,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+33,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+22,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+28,Medium,Streaming,Real Human (20% Calibration Base),Option A
+53,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+42,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+27,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+69,High,Gaming,Synthetic Twin (Phi-3 Engine),Option C
+37,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+23,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+35,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+53,Medium,Gaming,Real Human (20% Calibration Base),Option A
+70,Medium,Gaming,Real Human (20% Calibration Base),Option A
+18,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+36,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+27,Low,Voice,Real Human (20% Calibration Base),Option B
+39,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+19,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+32,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+35,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+51,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+42,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+28,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+70,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+40,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+27,Medium,Streaming,Real Human (20% Calibration Base),Option C
+26,Medium,Browsing,Real Human (20% Calibration Base),Option A
+49,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+73,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+33,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+44,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+68,Low,Voice,Real Human (20% Calibration Base),Option B
+28,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+38,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+49,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+40,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+45,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+50,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+26,Medium,Gaming,Real Human (20% Calibration Base),Option A
+37,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+19,Low,Browsing,Real Human (20% Calibration Base),Option A
+49,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+49,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+25,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+62,Low,Voice,Real Human (20% Calibration Base),Option C
+45,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+20,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+19,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+21,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+34,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+19,High,Streaming,Real Human (20% Calibration Base),Option A
+50,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+42,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+54,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+34,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+30,Medium,Browsing,Real Human (20% Calibration Base),Option C
+22,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+44,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+27,Low,Voice,Real Human (20% Calibration Base),Option B
+47,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option B
+45,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+43,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+41,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+34,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+21,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+30,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+39,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+31,High,Streaming,Real Human (20% Calibration Base),Option C
+75,Medium,Browsing,Real Human (20% Calibration Base),Option A
+71,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+43,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+47,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+63,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+33,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+46,High,Gaming,Real Human (20% Calibration Base),Option A
+42,Low,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+63,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+38,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+21,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+42,Low,Voice,Real Human (20% Calibration Base),Option A
+75,High,Gaming,Synthetic Twin (Phi-3 Engine),Option C
+47,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+26,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+43,Medium,Streaming,Real Human (20% Calibration Base),Option A
+36,Medium,Browsing,Real Human (20% Calibration Base),Option A
+65,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+49,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+65,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+33,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+30,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+21,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+37,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+71,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+20,High,Streaming,Real Human (20% Calibration Base),Option C
+53,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+53,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+49,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+54,Medium,Streaming,Real Human (20% Calibration Base),Option A
+75,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+44,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+36,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+29,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+50,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+36,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+64,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+35,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+36,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+30,Medium,Gaming,Real Human (20% Calibration Base),Option A
+39,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+47,High,Gaming,Real Human (20% Calibration Base),Option A
+18,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+42,High,Streaming,Real Human (20% Calibration Base),Option A
+73,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+72,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+34,Medium,Gaming,Real Human (20% Calibration Base),Option A
+19,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+39,Medium,Streaming,Real Human (20% Calibration Base),Option C
+54,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+51,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+38,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+67,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+66,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+50,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+47,High,Gaming,Real Human (20% Calibration Base),Option A
+33,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+52,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+20,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+44,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+33,Medium,Browsing,Real Human (20% Calibration Base),Option C
+37,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+31,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+25,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+39,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+52,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+21,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+41,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+48,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+41,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+38,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+71,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+22,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+30,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+32,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+24,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+33,Low,Voice,Real Human (20% Calibration Base),Option A
+66,High,Gaming,Synthetic Twin (Phi-3 Engine),Option B
+52,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+61,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+74,Medium,Gaming,Real Human (20% Calibration Base),Option A
+45,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+46,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+46,Medium,Browsing,Real Human (20% Calibration Base),Option C
+37,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+37,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+24,High,Streaming,Real Human (20% Calibration Base),Option C
+75,High,Streaming,Real Human (20% Calibration Base),Option A
+19,High,Streaming,Real Human (20% Calibration Base),Option C
+74,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+23,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+21,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+44,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+54,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+49,High,Streaming,Real Human (20% Calibration Base),Option A
+31,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+22,Medium,Streaming,Real Human (20% Calibration Base),Option A
+51,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+38,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+43,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+61,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+44,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+73,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+44,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+60,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+29,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+52,Low,Voice,Real Human (20% Calibration Base),Option C
+30,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+47,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option B
+39,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+44,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+19,High,Streaming,Real Human (20% Calibration Base),Option C
+39,Low,Voice,Real Human (20% Calibration Base),Option A
+69,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+77,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+35,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+18,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+37,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+49,Low,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+36,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+41,High,Streaming,Real Human (20% Calibration Base),Option B
+28,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+30,Medium,Streaming,Real Human (20% Calibration Base),Option C
+26,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+49,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+39,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+54,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+52,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+32,Low,Voice,Real Human (20% Calibration Base),Option A
+24,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+38,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+33,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+45,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+24,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+49,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+75,Medium,Browsing,Real Human (20% Calibration Base),Option A
+75,Low,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+28,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+24,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+25,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+79,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+21,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+45,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+27,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+69,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+79,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+32,Low,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+31,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+70,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+24,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+50,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+33,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+20,Low,Voice,Real Human (20% Calibration Base),Option C
+41,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+79,High,Gaming,Synthetic Twin (Phi-3 Engine),Option C
+62,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+33,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+28,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+22,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+52,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+54,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+21,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+61,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+25,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+45,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+42,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+60,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+49,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+22,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+63,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+36,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+37,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+24,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+47,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+43,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+26,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+18,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+20,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+49,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+42,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+23,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+46,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+26,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+44,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+25,Low,Voice,Real Human (20% Calibration Base),Option C
+62,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+45,Medium,Browsing,Real Human (20% Calibration Base),Option C
+21,Low,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+67,High,Gaming,Real Human (20% Calibration Base),Option B
+73,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+69,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+39,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+42,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+31,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+60,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+27,High,Streaming,Real Human (20% Calibration Base),Option B
+41,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+20,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+46,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+47,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+54,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+33,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+51,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+66,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+42,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+65,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+43,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+25,Medium,Gaming,Real Human (20% Calibration Base),Option A
+31,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+51,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+26,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+48,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+68,High,Gaming,Real Human (20% Calibration Base),Option C
+29,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+72,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+38,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+38,Medium,Streaming,Real Human (20% Calibration Base),Option A
+32,High,Streaming,Real Human (20% Calibration Base),Option B
+23,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+63,High,Streaming,Real Human (20% Calibration Base),Option B
+74,Medium,Gaming,Real Human (20% Calibration Base),Option A
+46,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+41,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+50,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+70,High,Gaming,Synthetic Twin (Phi-3 Engine),Option C
+37,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+46,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+36,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+45,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+32,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+18,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+18,Medium,Streaming,Real Human (20% Calibration Base),Option A
+42,Medium,Browsing,Real Human (20% Calibration Base),Option C
+49,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+51,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+28,Low,Browsing,Real Human (20% Calibration Base),Option A
+48,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+52,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+35,Medium,Browsing,Real Human (20% Calibration Base),Option A
+22,Medium,Browsing,Real Human (20% Calibration Base),Option A
+29,High,Gaming,Real Human (20% Calibration Base),Option A
+18,Medium,Streaming,Real Human (20% Calibration Base),Option A
+25,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+23,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+78,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+67,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+42,Low,Voice,Real Human (20% Calibration Base),Option A
+51,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+31,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+21,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+29,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+67,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+44,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+72,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+51,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+36,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+62,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+39,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+25,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+27,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+25,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+44,Low,Voice,Real Human (20% Calibration Base),Option C
+28,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+26,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+25,Medium,Streaming,Real Human (20% Calibration Base),Option B
+25,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option B
+38,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+61,High,Streaming,Real Human (20% Calibration Base),Option B
+53,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+31,Medium,Browsing,Real Human (20% Calibration Base),Option B
+51,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+48,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+40,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+18,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+21,Low,Voice,Real Human (20% Calibration Base),Option A
+37,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+41,High,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+38,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+41,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+19,High,Streaming,Real Human (20% Calibration Base),Option A
+25,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+30,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+36,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+26,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+71,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+42,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+50,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+29,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+36,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+19,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+76,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+36,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+20,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+44,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+63,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+40,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+20,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+65,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+49,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option C
+50,High,Streaming,Real Human (20% Calibration Base),Option A
+71,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+62,Low,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+37,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+22,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+25,Low,Browsing,Real Human (20% Calibration Base),Option B
+76,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+36,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+24,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+72,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+47,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+38,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+42,Medium,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+30,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+26,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+50,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+38,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+52,Low,Voice,Synthetic Twin (Phi-3 Engine),Option C
+62,High,Streaming,Real Human (20% Calibration Base),Option A
+43,High,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+49,Low,Voice,Real Human (20% Calibration Base),Option C
+63,High,Gaming,Synthetic Twin (Phi-3 Engine),Option B
+67,High,Streaming,Real Human (20% Calibration Base),Option C
+28,High,Streaming,Synthetic Twin (Phi-3 Engine),Option B
+54,Medium,Gaming,Synthetic Twin (Phi-3 Engine),Option A
+71,High,Streaming,Synthetic Twin (Phi-3 Engine),Option A
+21,Low,Voice,Synthetic Twin (Phi-3 Engine),Option A
+49,High,Streaming,Real Human (20% Calibration Base),Option A
+48,Low,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+43,Medium,Streaming,Real Human (20% Calibration Base),Option A
+26,Low,Voice,Synthetic Twin (Phi-3 Engine),Option B
+45,Low,Browsing,Real Human (20% Calibration Base),Option A
+51,High,Streaming,Real Human (20% Calibration Base),Option C
+52,Low,Streaming,Synthetic Twin (Phi-3 Engine),Option C
+63,Medium,Browsing,Synthetic Twin (Phi-3 Engine),Option A
+76,High,Streaming,Real Human (20% Calibration Base),Option A

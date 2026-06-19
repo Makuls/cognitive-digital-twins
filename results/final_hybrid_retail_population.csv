@@ -1,0 +1,1001 @@
+CustomerID,Country,Total_Transactions,Total_Items,Total_Spend,data_source,final_choice
+17785.0,United Kingdom,1,67,131.94,Real Human (20% Calibration Base),Budget
+14317.0,United Kingdom,1,255,508.58,Real Human (20% Calibration Base),Budget
+15977.0,United Kingdom,2,1016,1054.73,Real Human (20% Calibration Base),Mid-Tier
+12364.0,Belgium,4,1506,1313.1,Real Human (20% Calibration Base),Mid-Tier
+14565.0,United Kingdom,4,1540,3099.12,Real Human (20% Calibration Base),VIP
+13520.0,Switzerland,6,1649,3624.35,Real Human (20% Calibration Base),VIP
+12515.0,Italy,1,131,383.7,Real Human (20% Calibration Base),Budget
+15528.0,United Kingdom,1,123,229.33,Real Human (20% Calibration Base),Budget
+15070.0,United Kingdom,1,36,106.2,Real Human (20% Calibration Base),Budget
+16623.0,United Kingdom,1,39,129.45,Real Human (20% Calibration Base),Budget
+17306.0,United Kingdom,19,11491,8631.31,Real Human (20% Calibration Base),VIP
+17338.0,United Kingdom,8,3128,6643.93,Real Human (20% Calibration Base),VIP
+13771.0,United Kingdom,4,1477,2634.45,Real Human (20% Calibration Base),Mid-Tier
+18033.0,United Kingdom,1,253,97.97,Real Human (20% Calibration Base),Budget
+14543.0,United Kingdom,16,679,3630.33,Real Human (20% Calibration Base),VIP
+13494.0,United Kingdom,1,162,316.26000000000005,Real Human (20% Calibration Base),Budget
+17374.0,United Kingdom,2,85,495.77,Real Human (20% Calibration Base),Budget
+16343.0,United Kingdom,2,195,370.48,Real Human (20% Calibration Base),Budget
+12818.0,Austria,1,929,1542.08,Real Human (20% Calibration Base),Mid-Tier
+17566.0,United Kingdom,2,518,901.21,Real Human (20% Calibration Base),Mid-Tier
+17706.0,United Kingdom,17,3899,10504.49,Real Human (20% Calibration Base),VIP
+13332.0,United Kingdom,1,179,350.9,Real Human (20% Calibration Base),Budget
+16689.0,United Kingdom,2,330,422.6,Real Human (20% Calibration Base),Budget
+17189.0,United Kingdom,2,227,384.4,Real Human (20% Calibration Base),Budget
+15244.0,United Kingdom,2,405,631.57,Real Human (20% Calibration Base),Budget
+14849.0,United Kingdom,25,5694,7930.54,Real Human (20% Calibration Base),VIP
+12480.0,Germany,4,1707,3281.63,Real Human (20% Calibration Base),VIP
+16571.0,United Kingdom,3,1239,1421.69,Real Human (20% Calibration Base),Mid-Tier
+12721.0,France,6,1959,2656.13,Real Human (20% Calibration Base),VIP
+14332.0,United Kingdom,3,481,866.3100000000001,Real Human (20% Calibration Base),Mid-Tier
+15976.0,United Kingdom,2,277,430.94,Real Human (20% Calibration Base),Budget
+14345.0,United Kingdom,1,50,108.97999999999999,Real Human (20% Calibration Base),Budget
+15596.0,United Kingdom,5,561,1406.59,Real Human (20% Calibration Base),Mid-Tier
+18068.0,United Kingdom,1,6,101.7,Real Human (20% Calibration Base),Budget
+13458.0,United Kingdom,14,5508,9646.57,Real Human (20% Calibration Base),VIP
+14461.0,United Kingdom,3,766,2103.06,Real Human (20% Calibration Base),Mid-Tier
+15158.0,United Kingdom,1,198,401.40000000000003,Real Human (20% Calibration Base),Budget
+15199.0,United Kingdom,4,396,1268.7,Real Human (20% Calibration Base),Mid-Tier
+15087.0,United Kingdom,1,470,306.94,Real Human (20% Calibration Base),Budget
+12704.0,Finland,8,1006,2340.84,Real Human (20% Calibration Base),Mid-Tier
+12955.0,United Kingdom,11,3664,4757.16,Real Human (20% Calibration Base),VIP
+16893.0,United Kingdom,1,62,145.93,Real Human (20% Calibration Base),Budget
+17109.0,United Kingdom,6,589,885.04,Real Human (20% Calibration Base),Mid-Tier
+14057.0,United Kingdom,17,4876,6217.96,Real Human (20% Calibration Base),VIP
+14016.0,EIRE,4,2125,4341.21,Real Human (20% Calibration Base),VIP
+17253.0,United Kingdom,1,43,178.26,Real Human (20% Calibration Base),Budget
+15053.0,United Kingdom,3,986,697.79,Real Human (20% Calibration Base),Mid-Tier
+15653.0,United Kingdom,2,1200,877.44,Real Human (20% Calibration Base),Mid-Tier
+14102.0,United Kingdom,5,961,1360.28,Real Human (20% Calibration Base),Mid-Tier
+16150.0,United Kingdom,5,1047,2053.02,Real Human (20% Calibration Base),Mid-Tier
+15380.0,United Kingdom,5,376,1690.26,Real Human (20% Calibration Base),Mid-Tier
+16950.0,United Kingdom,3,644,1178.56,Real Human (20% Calibration Base),Mid-Tier
+13171.0,United Kingdom,3,229,468.41,Real Human (20% Calibration Base),Budget
+14959.0,United Kingdom,4,494,695.42,Real Human (20% Calibration Base),Mid-Tier
+13509.0,United Kingdom,7,1106,979.72,Real Human (20% Calibration Base),Mid-Tier
+15318.0,United Kingdom,1,642,312.62,Real Human (20% Calibration Base),Budget
+17282.0,United Kingdom,3,1877,1703.41,Real Human (20% Calibration Base),Mid-Tier
+14364.0,United Kingdom,8,1967,3717.35,Real Human (20% Calibration Base),VIP
+12526.0,Germany,3,632,1316.66,Real Human (20% Calibration Base),Mid-Tier
+16358.0,United Kingdom,4,1302,2027.5,Real Human (20% Calibration Base),Mid-Tier
+14537.0,United Kingdom,1,120,355.56,Real Human (20% Calibration Base),Budget
+14099.0,United Kingdom,11,2179,3104.17,Real Human (20% Calibration Base),VIP
+13651.0,United Kingdom,2,33,94.2,Real Human (20% Calibration Base),Budget
+16898.0,United Kingdom,3,419,508.81,Real Human (20% Calibration Base),Budget
+17062.0,United Kingdom,4,430,538.37,Real Human (20% Calibration Base),Budget
+16499.0,United Kingdom,2,127,365.45,Real Human (20% Calibration Base),Budget
+16102.0,United Kingdom,3,942,1842.14,Real Human (20% Calibration Base),Mid-Tier
+14525.0,United Kingdom,9,2696,4332.2,Real Human (20% Calibration Base),VIP
+18085.0,United Kingdom,2,265,689.95,Real Human (20% Calibration Base),Mid-Tier
+17667.0,United Kingdom,5,1037,2055.51,Real Human (20% Calibration Base),Mid-Tier
+15467.0,United Kingdom,3,310,524.88,Real Human (20% Calibration Base),Budget
+12683.0,France,15,4987,8476.57,Real Human (20% Calibration Base),VIP
+12566.0,Germany,1,265,351.65,Real Human (20% Calibration Base),Budget
+17574.0,United Kingdom,1,77,185.65,Real Human (20% Calibration Base),Budget
+13429.0,United Kingdom,4,1390,1006.8,Real Human (20% Calibration Base),Mid-Tier
+18159.0,United Kingdom,1,139,530.15,Real Human (20% Calibration Base),Budget
+12432.0,Norway,5,1801,5059.32,Real Human (20% Calibration Base),VIP
+16103.0,United Kingdom,6,558,1429.64,Real Human (20% Calibration Base),Mid-Tier
+14355.0,United Kingdom,1,92,174.4,Real Human (20% Calibration Base),Budget
+16715.0,United Kingdom,1,642,301.71999999999997,Real Human (20% Calibration Base),Budget
+17517.0,United Kingdom,1,102,153.94,Real Human (20% Calibration Base),Budget
+16475.0,United Kingdom,4,319,544.3,Real Human (20% Calibration Base),Budget
+14001.0,United Kingdom,3,962,2043.0800000000002,Real Human (20% Calibration Base),Mid-Tier
+12725.0,Italy,1,164,427.8,Real Human (20% Calibration Base),Budget
+12532.0,France,1,153,349.83000000000004,Real Human (20% Calibration Base),Budget
+15971.0,United Kingdom,12,1717,4199.85,Real Human (20% Calibration Base),VIP
+16101.0,United Kingdom,1,757,1290.7,Real Human (20% Calibration Base),Mid-Tier
+15907.0,United Kingdom,3,509,967.45,Real Human (20% Calibration Base),Mid-Tier
+16768.0,United Kingdom,3,196,478.09000000000003,Real Human (20% Calibration Base),Budget
+15116.0,United Kingdom,4,648,1352.75,Real Human (20% Calibration Base),Mid-Tier
+13531.0,United Kingdom,2,174,483.8,Real Human (20% Calibration Base),Budget
+17900.0,United Kingdom,2,73,112.19999999999999,Real Human (20% Calibration Base),Budget
+15351.0,United Kingdom,7,753,1960.11,Real Human (20% Calibration Base),Mid-Tier
+13320.0,United Kingdom,4,1096,1548.7,Real Human (20% Calibration Base),Mid-Tier
+12919.0,United Kingdom,6,673,1335.19,Real Human (20% Calibration Base),Mid-Tier
+12875.0,United Kingdom,2,2019,343.2300000000001,Real Human (20% Calibration Base),Budget
+17658.0,United Kingdom,2,616,595.42,Real Human (20% Calibration Base),Budget
+15004.0,United Kingdom,1,630,1246.32,Real Human (20% Calibration Base),Mid-Tier
+17459.0,United Kingdom,2,537,657.3,Real Human (20% Calibration Base),Budget
+17768.0,United Kingdom,3,1186,2273.18,Real Human (20% Calibration Base),Mid-Tier
+12712.0,Germany,13,1062,4396.13,Real Human (20% Calibration Base),VIP
+14855.0,United Kingdom,2,267,645.65,Real Human (20% Calibration Base),Budget
+14600.0,United Kingdom,1,125,393.33000000000004,Real Human (20% Calibration Base),Budget
+17863.0,United Kingdom,6,2638,3160.0,Real Human (20% Calibration Base),VIP
+12890.0,United Kingdom,1,259,380.46999999999997,Real Human (20% Calibration Base),Budget
+16698.0,United Kingdom,2,840,1998.0,Real Human (20% Calibration Base),Mid-Tier
+15329.0,United Kingdom,3,486,1049.7,Real Human (20% Calibration Base),Mid-Tier
+15146.0,United Kingdom,2,1473,1327.16,Real Human (20% Calibration Base),Mid-Tier
+17193.0,United Kingdom,7,1254,1699.3,Real Human (20% Calibration Base),Mid-Tier
+14082.0,United Kingdom,1,110,182.25,Real Human (20% Calibration Base),Budget
+12544.0,Spain,1,136,372.7,Real Human (20% Calibration Base),Budget
+13562.0,United Kingdom,3,757,1799.33,Real Human (20% Calibration Base),Mid-Tier
+13726.0,United Kingdom,2,1054,1079.66,Real Human (20% Calibration Base),Mid-Tier
+15402.0,United Kingdom,2,694,626.77,Real Human (20% Calibration Base),Budget
+17585.0,United Kingdom,4,1671,1133.07,Real Human (20% Calibration Base),Mid-Tier
+13858.0,United Kingdom,1,75,216.17000000000002,Real Human (20% Calibration Base),Budget
+15584.0,United Kingdom,4,314,725.11,Real Human (20% Calibration Base),Mid-Tier
+18055.0,United Kingdom,10,2455,6784.1900000000005,Real Human (20% Calibration Base),VIP
+14256.0,United Kingdom,2,414,969.0600000000001,Real Human (20% Calibration Base),Mid-Tier
+13352.0,United Kingdom,1,321,397.97999999999996,Real Human (20% Calibration Base),Budget
+16652.0,United Kingdom,7,3283,6773.97,Real Human (20% Calibration Base),VIP
+17345.0,United Kingdom,4,346,537.74,Real Human (20% Calibration Base),Budget
+13014.0,United Kingdom,10,907,3466.2799999999997,Real Human (20% Calibration Base),VIP
+14215.0,United Kingdom,6,1358,1789.72,Real Human (20% Calibration Base),Mid-Tier
+13772.0,United Kingdom,3,546,1132.13,Real Human (20% Calibration Base),Mid-Tier
+12937.0,United Kingdom,4,1007,1504.27,Real Human (20% Calibration Base),Mid-Tier
+14173.0,United Kingdom,4,150,450.84,Real Human (20% Calibration Base),Budget
+12701.0,Germany,2,678,797.71,Real Human (20% Calibration Base),Mid-Tier
+13516.0,United Kingdom,3,985,1389.41,Real Human (20% Calibration Base),Mid-Tier
+14576.0,United Kingdom,1,12,35.400000000000006,Real Human (20% Calibration Base),Budget
+13140.0,United Kingdom,3,186,423.72,Real Human (20% Calibration Base),Budget
+14403.0,United Kingdom,4,519,1475.81,Real Human (20% Calibration Base),Mid-Tier
+12902.0,United Kingdom,1,66,138.68,Real Human (20% Calibration Base),Budget
+14321.0,United Kingdom,5,2406,1530.75,Real Human (20% Calibration Base),Mid-Tier
+14857.0,United Kingdom,2,464,1173.12,Real Human (20% Calibration Base),Mid-Tier
+12463.0,Belgium,4,776,1344.78,Real Human (20% Calibration Base),Mid-Tier
+16215.0,United Kingdom,1,104,242.35,Real Human (20% Calibration Base),Budget
+16952.0,United Kingdom,2,92,167.61,Real Human (20% Calibration Base),Budget
+15712.0,United Kingdom,5,486,1072.36,Real Human (20% Calibration Base),Mid-Tier
+13263.0,United Kingdom,35,4780,7454.07,Real Human (20% Calibration Base),VIP
+13136.0,United Kingdom,5,1328,2607.61,Real Human (20% Calibration Base),Mid-Tier
+17715.0,United Kingdom,1,384,326.4,Real Human (20% Calibration Base),Budget
+18204.0,United Kingdom,3,1200,1993.7,Real Human (20% Calibration Base),Mid-Tier
+16470.0,United Kingdom,4,531,762.39,Real Human (20% Calibration Base),Mid-Tier
+13062.0,United Kingdom,1,343,346.98,Real Human (20% Calibration Base),Budget
+12535.0,France,2,219,716.35,Real Human (20% Calibration Base),Mid-Tier
+13529.0,United Kingdom,2,74,307.76,Real Human (20% Calibration Base),Budget
+16332.0,United Kingdom,7,801,1593.2,Real Human (20% Calibration Base),Mid-Tier
+17940.0,United Kingdom,10,9755,4106.4400000000005,Real Human (20% Calibration Base),VIP
+14414.0,United Kingdom,7,2512,1496.98,Real Human (20% Calibration Base),Mid-Tier
+13742.0,United Kingdom,12,1124,3131.02,Real Human (20% Calibration Base),VIP
+17742.0,United Kingdom,2,89,355.11,Real Human (20% Calibration Base),Budget
+17254.0,United Kingdom,2,252,272.44,Real Human (20% Calibration Base),Budget
+17611.0,United Kingdom,15,2560,3984.22,Real Human (20% Calibration Base),VIP
+16618.0,United Kingdom,5,1363,2647.59,Real Human (20% Calibration Base),VIP
+17775.0,United Kingdom,1,72,56.4,Real Human (20% Calibration Base),Budget
+17557.0,United Kingdom,3,306,541.46,Real Human (20% Calibration Base),Budget
+16743.0,United Kingdom,7,2047,2238.09,Real Human (20% Calibration Base),Mid-Tier
+16647.0,United Kingdom,2,146,214.06,Real Human (20% Calibration Base),Budget
+15300.0,United Kingdom,1,292,496.44,Real Human (20% Calibration Base),Budget
+16463.0,United Kingdom,4,1163,1422.4,Real Human (20% Calibration Base),Mid-Tier
+15571.0,United Kingdom,4,264,650.4300000000001,Real Human (20% Calibration Base),Budget
+17180.0,United Kingdom,4,683,796.03,Real Human (20% Calibration Base),Mid-Tier
+18255.0,United Kingdom,1,74,103.30000000000001,Real Human (20% Calibration Base),Budget
+12724.0,France,4,445,1031.41,Real Human (20% Calibration Base),Mid-Tier
+16719.0,United Kingdom,7,1204,1790.42,Real Human (20% Calibration Base),Mid-Tier
+17495.0,United Kingdom,2,229,497.56,Real Human (20% Calibration Base),Budget
+13005.0,United Kingdom,2,172,513.7,Real Human (20% Calibration Base),Budget
+17364.0,United Kingdom,11,2701,4481.18,Real Human (20% Calibration Base),VIP
+18225.0,United Kingdom,12,3244,5509.12,Real Human (20% Calibration Base),VIP
+17625.0,United Kingdom,4,1198,2047.0,Real Human (20% Calibration Base),Mid-Tier
+16012.0,United Kingdom,3,799,1415.29,Real Human (20% Calibration Base),Mid-Tier
+12497.0,Germany,1,1236,1043.1,Real Human (20% Calibration Base),Mid-Tier
+13763.0,United Kingdom,1,728,1714.96,Real Human (20% Calibration Base),Mid-Tier
+14692.0,United Kingdom,4,265,591.55,Real Human (20% Calibration Base),Budget
+15695.0,United Kingdom,2,212,409.98,Real Human (20% Calibration Base),Budget
+14479.0,United Kingdom,2,117,316.25,Real Human (20% Calibration Base),Budget
+17498.0,United Kingdom,1,394,272.21999999999997,Real Human (20% Calibration Base),Budget
+17767.0,United Kingdom,1,128,271.2,Real Human (20% Calibration Base),Budget
+14422.0,United Kingdom,6,2906,4263.64,Real Human (20% Calibration Base),VIP
+14247.0,United Kingdom,1,47,136.77,Real Human (20% Calibration Base),Budget
+18045.0,United Kingdom,1,142,189.4,Real Human (20% Calibration Base),Budget
+15676.0,United Kingdom,3,2252,3435.76,Real Human (20% Calibration Base),VIP
+16149.0,United Kingdom,2,308,280.52,Real Human (20% Calibration Base),Budget
+15975.0,United Kingdom,1,243,371.01,Real Human (20% Calibration Base),Budget
+14285.0,United Kingdom,4,541,1910.01,Real Human (20% Calibration Base),Mid-Tier
+13780.0,United Kingdom,2,318,360.01,Real Human (20% Calibration Base),Budget
+12995.0,United Kingdom,1,108,211.32,Real Human (20% Calibration Base),Budget
+15373.0,United Kingdom,12,500,2415.91,Real Human (20% Calibration Base),Mid-Tier
+13566.0,United Kingdom,2,575,874.71,Real Human (20% Calibration Base),Mid-Tier
+16856.0,United Kingdom,1,12,35.400000000000006,Real Human (20% Calibration Base),Budget
+15776.0,United Kingdom,1,138,241.62,Real Human (20% Calibration Base),Budget
+13931.0,United Kingdom,2,725,1237.53,Real Human (20% Calibration Base),Mid-Tier
+15725.0,United Kingdom,1,221,415.25,Real Human (20% Calibration Base),Budget
+13194.0,United Kingdom,1,26,60.7,Real Human (20% Calibration Base),Budget
+17051.0,United Kingdom,1,184,247.14000000000001,Real Human (20% Calibration Base),Budget
+17359.0,United Kingdom,1,161,127.86,Real Human (20% Calibration Base),Budget
+14866.0,United Kingdom,12,6752,14389.9,Real Human (20% Calibration Base),VIP
+13304.0,United Kingdom,1,238,300.42,Real Human (20% Calibration Base),Budget
+14450.0,United Kingdom,3,241,483.25,Real Human (20% Calibration Base),Budget
+13728.0,United Kingdom,6,458,1016.14,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15861.0,United Kingdom,8,2544,3165.36,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18212.0,United Kingdom,1,101,248.42,Synthetic Twin (Phi-3 Engine),Budget
+18013.0,United Kingdom,2,285,187.29,Synthetic Twin (Phi-3 Engine),Budget
+17248.0,United Kingdom,1,213,318.65,Synthetic Twin (Phi-3 Engine),Budget
+14504.0,United Kingdom,4,308,673.26,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15537.0,United Kingdom,1,29,110.92,Synthetic Twin (Phi-3 Engine),Budget
+12410.0,Switzerland,2,211,693.3299999999999,Synthetic Twin (Phi-3 Engine),Budget
+17926.0,United Kingdom,2,306,397.29,Synthetic Twin (Phi-3 Engine),Budget
+12951.0,United Kingdom,6,503,1064.07,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15308.0,United Kingdom,1,175,310.47,Synthetic Twin (Phi-3 Engine),Budget
+18260.0,United Kingdom,6,1478,2643.2,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13754.0,United Kingdom,2,214,282.6,Synthetic Twin (Phi-3 Engine),Budget
+15625.0,United Kingdom,4,1188,1534.26,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16372.0,United Kingdom,2,166,367.93,Synthetic Twin (Phi-3 Engine),Budget
+14597.0,United Kingdom,2,577,883.15,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16624.0,United Kingdom,2,488,810.57,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14578.0,United Kingdom,1,240,168.63,Synthetic Twin (Phi-3 Engine),Budget
+13134.0,United Kingdom,4,1059,1793.58,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14297.0,United Kingdom,4,865,1305.33,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12534.0,Germany,1,651,1089.18,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15105.0,United Kingdom,7,1211,2298.93,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15363.0,United Kingdom,1,144,326.0,Synthetic Twin (Phi-3 Engine),Budget
+13938.0,United Kingdom,1,70,71.66,Synthetic Twin (Phi-3 Engine),Budget
+12556.0,Spain,2,358,603.71,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18109.0,United Kingdom,26,4237,8052.97,Synthetic Twin (Phi-3 Engine),VIP
+16816.0,United Kingdom,4,274,417.06,Synthetic Twin (Phi-3 Engine),Budget
+18014.0,United Kingdom,1,68,166.42,Synthetic Twin (Phi-3 Engine),Budget
+14716.0,United Kingdom,2,604,329.68,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16748.0,United Kingdom,5,880,1515.9,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18074.0,United Kingdom,1,190,489.6,Synthetic Twin (Phi-3 Engine),Budget
+15644.0,United Kingdom,4,557,813.0,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13500.0,United Kingdom,3,609,1166.77,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17841.0,United Kingdom,124,23071,40991.57,Synthetic Twin (Phi-3 Engine),VIP
+16849.0,United Kingdom,1,33,124.57,Synthetic Twin (Phi-3 Engine),Budget
+14766.0,United Kingdom,6,1349,2473.37,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13232.0,United Kingdom,7,778,1357.6,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13949.0,United Kingdom,6,2474,2427.32,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16392.0,United Kingdom,1,203,221.19,Synthetic Twin (Phi-3 Engine),Budget
+14408.0,United Kingdom,7,1616,2606.53,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13983.0,United Kingdom,12,1183,2603.43,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12536.0,France,3,2803,12601.830000000002,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15205.0,United Kingdom,2,378,653.24,Synthetic Twin (Phi-3 Engine),Budget
+12572.0,Germany,2,452,1020.4200000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17718.0,United Kingdom,1,83,139.35,Synthetic Twin (Phi-3 Engine),Budget
+14513.0,United Kingdom,3,361,455.59000000000003,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18242.0,United Kingdom,4,1017,2232.4900000000002,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14032.0,United Kingdom,11,2032,2975.59,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14022.0,United Kingdom,1,487,440.0,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17454.0,United Kingdom,4,243,517.53,Synthetic Twin (Phi-3 Engine),Budget
+17727.0,United Kingdom,1,645,1060.25,Synthetic Twin (Phi-3 Engine),Budget
+12942.0,United Kingdom,3,203,683.9,Synthetic Twin (Phi-3 Engine),Budget
+12355.0,Bahrain,1,240,459.4,Synthetic Twin (Phi-3 Engine),Budget
+15628.0,United Kingdom,9,1894,2870.2400000000002,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13166.0,United Kingdom,1,216,417.2,Synthetic Twin (Phi-3 Engine),Budget
+13117.0,United Kingdom,8,945,984.91,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14241.0,United Kingdom,1,146,213.70000000000002,Synthetic Twin (Phi-3 Engine),Budget
+16536.0,United Kingdom,1,251,548.97,Synthetic Twin (Phi-3 Engine),Budget
+17165.0,United Kingdom,1,100,158.68,Synthetic Twin (Phi-3 Engine),Budget
+12812.0,Japan,1,164,229.64000000000001,Synthetic Twin (Phi-3 Engine),Budget
+17457.0,United Kingdom,5,826,1737.7,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17608.0,United Kingdom,2,232,193.42,Synthetic Twin (Phi-3 Engine),Budget
+16085.0,United Kingdom,5,636,981.51,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16404.0,United Kingdom,1,157,443.05,Synthetic Twin (Phi-3 Engine),Budget
+15174.0,United Kingdom,1,145,135.75,Synthetic Twin (Phi-3 Engine),Budget
+14640.0,United Kingdom,6,886,2125.08,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17601.0,United Kingdom,1,103,116.00999999999999,Synthetic Twin (Phi-3 Engine),Budget
+12578.0,Italy,2,1196,2794.51,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17571.0,United Kingdom,4,905,1498.51,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15737.0,United Kingdom,8,599,1205.12,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13914.0,United Kingdom,2,380,626.45,Synthetic Twin (Phi-3 Engine),Budget
+14124.0,United Kingdom,1,1618,419.58,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18287.0,United Kingdom,3,1586,1837.28,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14460.0,United Kingdom,3,881,434.34,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12640.0,France,3,311,1174.58,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18248.0,United Kingdom,2,511,804.02,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17843.0,United Kingdom,1,113,205.48,Synthetic Twin (Phi-3 Engine),Budget
+18102.0,United Kingdom,60,64124,259657.3,Synthetic Twin (Phi-3 Engine),VIP
+12609.0,Germany,3,648,1126.85,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12449.0,Belgium,4,1553,4067.29,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13085.0,United Kingdom,2,216,416.08,Synthetic Twin (Phi-3 Engine),Budget
+16311.0,United Kingdom,2,394,616.26,Synthetic Twin (Phi-3 Engine),Budget
+14290.0,United Kingdom,5,915,2314.65,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12991.0,United Kingdom,2,405,503.76,Synthetic Twin (Phi-3 Engine),Budget
+14140.0,United Kingdom,2,811,935.05,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17105.0,United Kingdom,2,693,665.78,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17956.0,United Kingdom,1,1,12.75,Synthetic Twin (Phi-3 Engine),Budget
+14462.0,United Kingdom,11,964,2004.02,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16619.0,United Kingdom,1,133,226.20999999999998,Synthetic Twin (Phi-3 Engine),Budget
+14242.0,United Kingdom,2,123,280.55,Synthetic Twin (Phi-3 Engine),Budget
+12732.0,France,1,111,236.26000000000002,Synthetic Twin (Phi-3 Engine),Budget
+14859.0,United Kingdom,4,671,1353.74,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15883.0,United Kingdom,2,223,396.48,Synthetic Twin (Phi-3 Engine),Budget
+16185.0,United Kingdom,2,260,529.41,Synthetic Twin (Phi-3 Engine),Budget
+14523.0,United Kingdom,1,251,241.09,Synthetic Twin (Phi-3 Engine),Budget
+16847.0,United Kingdom,1,78,193.44,Synthetic Twin (Phi-3 Engine),Budget
+12713.0,Germany,1,508,848.55,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12373.0,Austria,1,197,364.6,Synthetic Twin (Phi-3 Engine),Budget
+13557.0,United Kingdom,2,546,584.0600000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12582.0,Finland,2,300,511.36,Synthetic Twin (Phi-3 Engine),Budget
+12735.0,France,2,368,779.5699999999999,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17284.0,United Kingdom,6,1364,1652.58,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17464.0,United Kingdom,1,220,289.96000000000004,Synthetic Twin (Phi-3 Engine),Budget
+13070.0,United Kingdom,1,110,228.8,Synthetic Twin (Phi-3 Engine),Budget
+12679.0,France,4,554,1113.02,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15069.0,United Kingdom,1,520,1109.53,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16791.0,United Kingdom,7,763,1721.78,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17227.0,United Kingdom,6,741,939.32,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13471.0,United Kingdom,4,1590,2531.58,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13243.0,United Kingdom,1,233,600.07,Synthetic Twin (Phi-3 Engine),Budget
+13954.0,United Kingdom,2,150,439.92,Synthetic Twin (Phi-3 Engine),Budget
+13893.0,United Kingdom,1,190,821.1,Synthetic Twin (Phi-3 Engine),Budget
+17381.0,United Kingdom,29,25649,20275.61,Synthetic Twin (Phi-3 Engine),VIP
+17226.0,United Kingdom,1,406,393.49,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13280.0,United Kingdom,3,522,814.86,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15464.0,United Kingdom,1,350,1048.85,Synthetic Twin (Phi-3 Engine),Budget
+18004.0,United Kingdom,1,78,169.47,Synthetic Twin (Phi-3 Engine),Budget
+12513.0,France,1,462,612.29,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16959.0,United Kingdom,1,49,117.35000000000001,Synthetic Twin (Phi-3 Engine),Budget
+13736.0,United Kingdom,2,497,731.9,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18067.0,United Kingdom,1,189,396.33,Synthetic Twin (Phi-3 Engine),Budget
+13043.0,United Kingdom,1,254,516.42,Synthetic Twin (Phi-3 Engine),Budget
+14965.0,United Kingdom,2,365,599.0,Synthetic Twin (Phi-3 Engine),Budget
+14687.0,United Kingdom,1,470,628.38,Synthetic Twin (Phi-3 Engine),Budget
+16597.0,United Kingdom,1,184,90.04,Synthetic Twin (Phi-3 Engine),Budget
+17228.0,United Kingdom,8,1532,1906.09,Synthetic Twin (Phi-3 Engine),VIP
+18172.0,United Kingdom,20,3184,7561.68,Synthetic Twin (Phi-3 Engine),VIP
+16722.0,United Kingdom,13,5001,4730.81,Synthetic Twin (Phi-3 Engine),VIP
+15611.0,United Kingdom,13,504,1591.45,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15942.0,United Kingdom,1,232,337.44,Synthetic Twin (Phi-3 Engine),Budget
+15321.0,United Kingdom,3,1181,2748.31,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12590.0,Germany,2,4283,9864.26,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15673.0,United Kingdom,4,1514,2881.02,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12618.0,Italy,1,96,177.31,Synthetic Twin (Phi-3 Engine),Budget
+15192.0,United Kingdom,3,918,1044.32,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15706.0,United Kingdom,4,321,1060.56,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12586.0,Italy,1,79,196.94000000000003,Synthetic Twin (Phi-3 Engine),Budget
+14050.0,United Kingdom,2,689,746.36,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15276.0,United Kingdom,1,64,135.31,Synthetic Twin (Phi-3 Engine),Budget
+15132.0,United Kingdom,5,679,977.9300000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12731.0,France,12,8437,18895.91,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16837.0,United Kingdom,11,1563,3170.98,Synthetic Twin (Phi-3 Engine),VIP
+16659.0,United Kingdom,1,72,39.12,Synthetic Twin (Phi-3 Engine),Budget
+15764.0,United Kingdom,6,2050,3279.97,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16324.0,United Kingdom,3,282,428.68,Synthetic Twin (Phi-3 Engine),Budget
+13388.0,United Kingdom,2,282,677.1,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17398.0,United Kingdom,3,310,653.38,Synthetic Twin (Phi-3 Engine),Budget
+15335.0,United Kingdom,1,80,173.97,Synthetic Twin (Phi-3 Engine),Budget
+18202.0,United Kingdom,3,581,1396.99,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13358.0,United Kingdom,1,285,439.03,Synthetic Twin (Phi-3 Engine),Budget
+17948.0,United Kingdom,1,144,358.56000000000006,Synthetic Twin (Phi-3 Engine),Budget
+16072.0,United Kingdom,1,140,584.3199999999999,Synthetic Twin (Phi-3 Engine),Budget
+13476.0,United Kingdom,2,417,1238.47,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15573.0,United Kingdom,2,363,607.45,Synthetic Twin (Phi-3 Engine),Budget
+12912.0,United Kingdom,5,670,1662.3,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13124.0,United Kingdom,3,2147,3866.33,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12600.0,Germany,10,774,2599.04,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16617.0,United Kingdom,1,91,151.85,Synthetic Twin (Phi-3 Engine),Budget
+17931.0,United Kingdom,2,249,408.36,Synthetic Twin (Phi-3 Engine),Budget
+16161.0,United Kingdom,19,2599,5575.56,Synthetic Twin (Phi-3 Engine),VIP
+13418.0,United Kingdom,18,3918,6127.43,Synthetic Twin (Phi-3 Engine),VIP
+16855.0,United Kingdom,2,164,328.4,Synthetic Twin (Phi-3 Engine),Budget
+13425.0,United Kingdom,3,1123,1624.21,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14606.0,United Kingdom,93,6224,12156.65,Synthetic Twin (Phi-3 Engine),VIP
+17287.0,United Kingdom,7,559,1064.11,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13974.0,United Kingdom,1,249,413.59000000000003,Synthetic Twin (Phi-3 Engine),Budget
+16710.0,United Kingdom,10,1836,2483.04,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13416.0,United Kingdom,2,142,712.5,Synthetic Twin (Phi-3 Engine),Budget
+13859.0,United Kingdom,1,129,201.16,Synthetic Twin (Phi-3 Engine),Budget
+13721.0,United Kingdom,1,316,524.14,Synthetic Twin (Phi-3 Engine),Budget
+13946.0,United Kingdom,3,443,561.57,Synthetic Twin (Phi-3 Engine),Budget
+14587.0,United Kingdom,9,761,1601.14,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12386.0,Australia,2,354,401.9,Synthetic Twin (Phi-3 Engine),Budget
+16839.0,United Kingdom,34,8975,16594.35,Synthetic Twin (Phi-3 Engine),VIP
+13769.0,United Kingdom,10,1163,2796.51,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17828.0,Malta,4,667,1820.09,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13375.0,United Kingdom,1,442,778.65,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13979.0,United Kingdom,1,639,869.87,Synthetic Twin (Phi-3 Engine),Budget
+17181.0,United Kingdom,2,241,239.92000000000002,Synthetic Twin (Phi-3 Engine),Budget
+17347.0,United Kingdom,1,216,228.96,Synthetic Twin (Phi-3 Engine),Budget
+13546.0,United Kingdom,3,359,626.99,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17080.0,United Kingdom,2,166,287.62,Synthetic Twin (Phi-3 Engine),Budget
+15920.0,United Kingdom,4,99,167.5,Synthetic Twin (Phi-3 Engine),Budget
+12824.0,United Kingdom,1,232,397.12,Synthetic Twin (Phi-3 Engine),Budget
+13697.0,United Kingdom,1,177,151.29999999999998,Synthetic Twin (Phi-3 Engine),Budget
+14500.0,United Kingdom,3,117,356.85,Synthetic Twin (Phi-3 Engine),Budget
+14092.0,United Kingdom,14,2066,4076.91,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14498.0,United Kingdom,5,1098,1957.32,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15795.0,United Kingdom,1,581,610.01,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15395.0,United Kingdom,1,17,107.45,Synthetic Twin (Phi-3 Engine),Budget
+13095.0,United Kingdom,1,144,74.39999999999999,Synthetic Twin (Phi-3 Engine),Budget
+14584.0,United Kingdom,4,383,1042.26,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18118.0,United Kingdom,26,2882,5653.82,Synthetic Twin (Phi-3 Engine),VIP
+17749.0,United Kingdom,2,320,674.52,Synthetic Twin (Phi-3 Engine),Budget
+14293.0,United Kingdom,4,709,1046.56,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12657.0,France,4,1044,1643.18,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16613.0,United Kingdom,1,293,618.59,Synthetic Twin (Phi-3 Engine),Budget
+15689.0,United Kingdom,2,84,254.1,Synthetic Twin (Phi-3 Engine),Budget
+16926.0,United Kingdom,1,35,230.25,Synthetic Twin (Phi-3 Engine),Budget
+17525.0,United Kingdom,1,82,422.7,Synthetic Twin (Phi-3 Engine),Budget
+13747.0,United Kingdom,1,8,79.6,Synthetic Twin (Phi-3 Engine),Budget
+13137.0,United Kingdom,8,2226,3650.41,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12967.0,United Kingdom,2,438,1660.9,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14171.0,United Kingdom,1,167,363.79,Synthetic Twin (Phi-3 Engine),Budget
+16987.0,United Kingdom,7,402,1625.05,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13897.0,United Kingdom,1,200,311.16,Synthetic Twin (Phi-3 Engine),Budget
+17034.0,United Kingdom,3,410,745.52,Synthetic Twin (Phi-3 Engine),Budget
+14141.0,United Kingdom,4,355,915.13,Synthetic Twin (Phi-3 Engine),Budget
+15414.0,United Kingdom,3,443,774.9,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12445.0,Spain,1,62,133.4,Synthetic Twin (Phi-3 Engine),Budget
+15808.0,United Kingdom,4,1343,3734.9700000000003,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17600.0,United Kingdom,1,144,161.67000000000002,Synthetic Twin (Phi-3 Engine),Budget
+12458.0,Switzerland,2,506,947.4,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12785.0,Portugal,1,131,311.95,Synthetic Twin (Phi-3 Engine),Budget
+13758.0,United Kingdom,7,1844,3190.55,Synthetic Twin (Phi-3 Engine),VIP
+15567.0,United Kingdom,1,223,186.01,Synthetic Twin (Phi-3 Engine),Budget
+13244.0,United Kingdom,1,38,121.74000000000001,Synthetic Twin (Phi-3 Engine),Budget
+17526.0,United Kingdom,4,310,1195.8999999999999,Synthetic Twin (Phi-3 Engine),Budget
+18121.0,United Kingdom,2,450,673.1,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16535.0,United Kingdom,1,356,593.75,Synthetic Twin (Phi-3 Engine),Budget
+16897.0,United Kingdom,2,73,289.78,Synthetic Twin (Phi-3 Engine),Budget
+16107.0,United Kingdom,7,1176,3204.1600000000003,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12714.0,France,5,3069,4708.86,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16998.0,United Kingdom,4,76,295.0,Synthetic Twin (Phi-3 Engine),Budget
+14219.0,United Kingdom,1,78,89.94,Synthetic Twin (Phi-3 Engine),Budget
+13266.0,United Kingdom,12,4428,3834.2599999999998,Synthetic Twin (Phi-3 Engine),VIP
+15690.0,United Kingdom,2,408,239.76,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14396.0,United Kingdom,2,225,487.99,Synthetic Twin (Phi-3 Engine),Budget
+17033.0,United Kingdom,3,750,1030.14,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14311.0,United Kingdom,1,146,310.26,Synthetic Twin (Phi-3 Engine),Budget
+12945.0,United Kingdom,1,165,462.95,Synthetic Twin (Phi-3 Engine),Budget
+17289.0,United Kingdom,3,520,944.41,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16769.0,United Kingdom,1,83,380.39,Synthetic Twin (Phi-3 Engine),Budget
+17655.0,United Kingdom,7,1116,2638.94,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14719.0,United Kingdom,5,1032,1602.13,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18240.0,United Kingdom,1,126,422.58,Synthetic Twin (Phi-3 Engine),Budget
+15153.0,United Kingdom,1,198,329.25,Synthetic Twin (Phi-3 Engine),Budget
+18010.0,United Kingdom,1,60,174.8,Synthetic Twin (Phi-3 Engine),Budget
+14375.0,United Kingdom,1,194,257.68,Synthetic Twin (Phi-3 Engine),Budget
+17063.0,United Kingdom,7,770,1461.14,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17690.0,United Kingdom,15,1773,4757.95,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17582.0,United Kingdom,1,123,175.27,Synthetic Twin (Phi-3 Engine),Budget
+13802.0,United Kingdom,3,2572,4599.42,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17169.0,United Kingdom,2,526,835.78,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16270.0,United Kingdom,1,688,1141.24,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15306.0,United Kingdom,3,810,1174.35,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13336.0,United Kingdom,1,559,795.12,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13752.0,United Kingdom,6,876,1186.28,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17058.0,United Kingdom,3,592,1179.89,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16665.0,United Kingdom,1,59,135.4,Synthetic Twin (Phi-3 Engine),Budget
+18179.0,United Kingdom,6,1360,1793.17,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14056.0,United Kingdom,23,4273,8214.65,Synthetic Twin (Phi-3 Engine),VIP
+15790.0,United Kingdom,1,114,220.85,Synthetic Twin (Phi-3 Engine),Budget
+12431.0,Australia,15,2918,6487.45,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18167.0,United Kingdom,3,382,1384.8600000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14713.0,United Kingdom,11,1615,2666.36,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16063.0,United Kingdom,1,262,335.32,Synthetic Twin (Phi-3 Engine),Budget
+15550.0,United Kingdom,4,295,575.63,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12755.0,Japan,2,1491,3811.9500000000003,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17886.0,United Kingdom,3,481,899.61,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12641.0,Sweden,1,72,185.9,Synthetic Twin (Phi-3 Engine),Budget
+13253.0,United Kingdom,2,1572,1030.4,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17247.0,United Kingdom,1,106,282.19,Synthetic Twin (Phi-3 Engine),Budget
+16915.0,United Kingdom,6,132,621.6800000000001,Synthetic Twin (Phi-3 Engine),Budget
+15581.0,United Kingdom,13,287,3679.9700000000003,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13235.0,United Kingdom,1,441,1031.07,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17027.0,United Kingdom,6,421,890.29,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13873.0,United Kingdom,3,140,389.6,Synthetic Twin (Phi-3 Engine),Budget
+16851.0,United Kingdom,3,271,342.45,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15990.0,United Kingdom,2,443,792.11,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13953.0,United Kingdom,7,2724,3515.68,Synthetic Twin (Phi-3 Engine),VIP
+15773.0,United Kingdom,1,311,635.6800000000001,Synthetic Twin (Phi-3 Engine),Budget
+13218.0,United Kingdom,1,88,62.63999999999999,Synthetic Twin (Phi-3 Engine),Budget
+16654.0,United Kingdom,4,282,601.27,Synthetic Twin (Phi-3 Engine),Budget
+17958.0,United Kingdom,1,84,508.4599999999999,Synthetic Twin (Phi-3 Engine),Budget
+14439.0,Greece,1,526,2661.24,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16883.0,United Kingdom,2,104,276.73,Synthetic Twin (Phi-3 Engine),Budget
+13300.0,United Kingdom,1,203,371.89,Synthetic Twin (Phi-3 Engine),Budget
+15435.0,United Kingdom,1,54,149.29,Synthetic Twin (Phi-3 Engine),Budget
+12423.0,Belgium,8,1339,1859.31,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16030.0,United Kingdom,1,283,331.24,Synthetic Twin (Phi-3 Engine),Budget
+17966.0,United Kingdom,5,2571,1098.43,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17703.0,United Kingdom,3,590,798.74,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12403.0,Denmark,1,96,427.7,Synthetic Twin (Phi-3 Engine),Budget
+13841.0,United Kingdom,1,100,85.0,Synthetic Twin (Phi-3 Engine),Budget
+15955.0,United Kingdom,14,2135,4416.26,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17656.0,United Kingdom,5,1399,1674.69,Synthetic Twin (Phi-3 Engine),VIP
+17239.0,United Kingdom,1,150,382.5,Synthetic Twin (Phi-3 Engine),Budget
+12361.0,Belgium,1,91,189.9,Synthetic Twin (Phi-3 Engine),Budget
+16168.0,United Kingdom,27,1892,3787.6,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12868.0,United Kingdom,6,928,1607.0600000000002,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14972.0,United Kingdom,1,28,114.77,Synthetic Twin (Phi-3 Engine),Budget
+13052.0,United Kingdom,1,222,348.15000000000003,Synthetic Twin (Phi-3 Engine),Budget
+15894.0,United Kingdom,2,168,263.55,Synthetic Twin (Phi-3 Engine),Budget
+14235.0,United Kingdom,5,1959,3144.86,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15752.0,United Kingdom,7,1978,2637.38,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17913.0,United Kingdom,2,289,411.6,Synthetic Twin (Phi-3 Engine),Budget
+12797.0,Portugal,1,118,254.03,Synthetic Twin (Phi-3 Engine),Budget
+17531.0,United Kingdom,1,136,296.7,Synthetic Twin (Phi-3 Engine),Budget
+15801.0,United Kingdom,3,570,1063.95,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17809.0,United Kingdom,12,2057,5411.91,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14400.0,United Kingdom,1,454,574.7,Synthetic Twin (Phi-3 Engine),Budget
+13723.0,United Kingdom,1,43,199.85000000000002,Synthetic Twin (Phi-3 Engine),Budget
+15483.0,United Kingdom,4,295,233.81,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16628.0,United Kingdom,5,1205,2188.05,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14591.0,United Kingdom,4,1297,1447.14,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16268.0,United Kingdom,2,533,667.65,Synthetic Twin (Phi-3 Engine),Budget
+15953.0,United Kingdom,8,892,1659.3799999999999,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16184.0,United Kingdom,6,561,1158.79,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13428.0,United Kingdom,1,156,218.47,Synthetic Twin (Phi-3 Engine),Budget
+14507.0,United Kingdom,6,600,1383.18,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14179.0,United Kingdom,2,330,719.78,Synthetic Twin (Phi-3 Engine),Budget
+17859.0,United Kingdom,1,127,148.21,Synthetic Twin (Phi-3 Engine),Budget
+13132.0,United Kingdom,1,20,77.3,Synthetic Twin (Phi-3 Engine),Budget
+14467.0,United Kingdom,4,278,598.76,Synthetic Twin (Phi-3 Engine),Budget
+12987.0,United Kingdom,2,219,558.7,Synthetic Twin (Phi-3 Engine),Budget
+14382.0,United Kingdom,1,1237,626.07,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13638.0,United Kingdom,1,93,122.64,Synthetic Twin (Phi-3 Engine),Budget
+14799.0,United Kingdom,1,146,157.7,Synthetic Twin (Phi-3 Engine),Budget
+13078.0,United Kingdom,26,5630,12627.94,Synthetic Twin (Phi-3 Engine),VIP
+14623.0,United Kingdom,5,419,889.25,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17734.0,United Kingdom,3,422,700.63,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16773.0,United Kingdom,1,171,171.59,Synthetic Twin (Phi-3 Engine),Budget
+15620.0,United Kingdom,3,915,1553.18,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13006.0,United Kingdom,1,55,81.57,Synthetic Twin (Phi-3 Engine),Budget
+12843.0,United Kingdom,8,781,1702.26,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13404.0,United Kingdom,2,111,252.49,Synthetic Twin (Phi-3 Engine),Budget
+16383.0,United Kingdom,2,475,668.36,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16497.0,United Kingdom,6,1396,2965.69,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13875.0,United Kingdom,5,1316,1786.79,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14333.0,United Kingdom,1,58,415.2,Synthetic Twin (Phi-3 Engine),Budget
+14331.0,United Kingdom,2,252,462.65999999999997,Synthetic Twin (Phi-3 Engine),Budget
+17881.0,United Kingdom,1,32,133.35,Synthetic Twin (Phi-3 Engine),Budget
+13518.0,United Kingdom,1,392,659.4399999999999,Synthetic Twin (Phi-3 Engine),Budget
+13317.0,United Kingdom,6,1035,2273.68,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14752.0,United Kingdom,1,260,389.64,Synthetic Twin (Phi-3 Engine),Budget
+14757.0,United Kingdom,1,160,420.5,Synthetic Twin (Phi-3 Engine),Budget
+13536.0,United Kingdom,7,2136,3448.29,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15038.0,United Kingdom,6,217,705.49,Synthetic Twin (Phi-3 Engine),Budget
+15134.0,United Kingdom,8,887,1387.99,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17029.0,United Kingdom,2,400,716.0,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16712.0,United Kingdom,11,1749,3645.43,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16756.0,United Kingdom,1,106,239.4,Synthetic Twin (Phi-3 Engine),Budget
+16620.0,United Kingdom,2,88,178.96,Synthetic Twin (Phi-3 Engine),Budget
+15912.0,United Kingdom,2,185,264.62,Synthetic Twin (Phi-3 Engine),Budget
+15291.0,United Kingdom,15,2103,4668.3,Synthetic Twin (Phi-3 Engine),VIP
+13461.0,United Kingdom,3,1170,1445.0,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17692.0,United Kingdom,4,672,740.94,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16048.0,United Kingdom,2,144,256.44,Synthetic Twin (Phi-3 Engine),Budget
+14547.0,United Kingdom,8,2668,4007.54,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16982.0,United Kingdom,1,182,384.06,Synthetic Twin (Phi-3 Engine),Budget
+14512.0,United Kingdom,2,122,275.28,Synthetic Twin (Phi-3 Engine),Budget
+14902.0,United Kingdom,1,218,332.66,Synthetic Twin (Phi-3 Engine),Budget
+13571.0,United Kingdom,12,1759,2092.32,Synthetic Twin (Phi-3 Engine),VIP
+15503.0,United Kingdom,1,74,147.09,Synthetic Twin (Phi-3 Engine),Budget
+14064.0,United Kingdom,5,1788,1353.74,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14196.0,United Kingdom,1,142,335.52,Synthetic Twin (Phi-3 Engine),Budget
+16813.0,United Kingdom,10,1525,1692.98,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12753.0,Japan,6,11421,21429.39,Synthetic Twin (Phi-3 Engine),VIP
+17085.0,United Kingdom,5,786,1566.65,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14100.0,United Kingdom,1,64,194.9,Synthetic Twin (Phi-3 Engine),Budget
+17877.0,United Kingdom,1,98,237.61,Synthetic Twin (Phi-3 Engine),Budget
+13663.0,United Kingdom,1,91,189.47,Synthetic Twin (Phi-3 Engine),Budget
+15660.0,United Kingdom,9,1050,1600.86,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16810.0,United Kingdom,1,114,309.54,Synthetic Twin (Phi-3 Engine),Budget
+18147.0,United Kingdom,2,203,179.34,Synthetic Twin (Phi-3 Engine),Budget
+17955.0,United Kingdom,4,273,557.3,Synthetic Twin (Phi-3 Engine),Budget
+16235.0,United Kingdom,5,330,867.31,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17569.0,United Kingdom,1,159,344.14,Synthetic Twin (Phi-3 Engine),Budget
+17879.0,United Kingdom,1,45,178.52,Synthetic Twin (Phi-3 Engine),Budget
+12384.0,Switzerland,2,126,585.27,Synthetic Twin (Phi-3 Engine),Budget
+16778.0,United Kingdom,2,194,245.94,Synthetic Twin (Phi-3 Engine),Budget
+17341.0,United Kingdom,3,489,781.36,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15535.0,United Kingdom,4,143,536.4,Synthetic Twin (Phi-3 Engine),Budget
+13993.0,United Kingdom,9,900,3466.36,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14844.0,United Kingdom,4,1833,3189.81,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13196.0,United Kingdom,4,1224,1797.78,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15254.0,United Kingdom,1,275,300.36,Synthetic Twin (Phi-3 Engine),Budget
+13493.0,Switzerland,2,380,618.63,Synthetic Twin (Phi-3 Engine),Budget
+14051.0,United Kingdom,23,3756,15610.390000000001,Synthetic Twin (Phi-3 Engine),VIP
+17017.0,United Kingdom,20,6673,8694.26,Synthetic Twin (Phi-3 Engine),VIP
+12627.0,Germany,7,2752,4478.53,Synthetic Twin (Phi-3 Engine),VIP
+13343.0,United Kingdom,1,135,353.43,Synthetic Twin (Phi-3 Engine),Budget
+14944.0,United Kingdom,12,2815,5900.25,Synthetic Twin (Phi-3 Engine),VIP
+12866.0,Belgium,1,171,559.12,Synthetic Twin (Phi-3 Engine),Budget
+12560.0,Germany,3,1110,2134.0099999999998,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16626.0,United Kingdom,17,2690,4413.1,Synthetic Twin (Phi-3 Engine),VIP
+14723.0,United Kingdom,6,695,1158.3,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16407.0,United Kingdom,10,1124,2126.93,Synthetic Twin (Phi-3 Engine),VIP
+15886.0,United Kingdom,1,147,181.09,Synthetic Twin (Phi-3 Engine),Budget
+13348.0,United Kingdom,1,136,233.76000000000002,Synthetic Twin (Phi-3 Engine),Budget
+18146.0,United Kingdom,2,153,160.35,Synthetic Twin (Phi-3 Engine),Budget
+16881.0,United Kingdom,1,600,432.0,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17967.0,United Kingdom,1,80,123.07,Synthetic Twin (Phi-3 Engine),Budget
+15506.0,United Kingdom,3,848,979.26,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14850.0,United Kingdom,1,293,325.75,Synthetic Twin (Phi-3 Engine),Budget
+15007.0,United Kingdom,1,69,156.91,Synthetic Twin (Phi-3 Engine),Budget
+16347.0,United Kingdom,2,353,887.65,Synthetic Twin (Phi-3 Engine),Budget
+16376.0,United Kingdom,2,694,987.01,Synthetic Twin (Phi-3 Engine),Budget
+12401.0,Belgium,1,11,84.3,Synthetic Twin (Phi-3 Engine),Budget
+14071.0,United Kingdom,8,995,1438.82,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16201.0,United Kingdom,4,1286,1863.47,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18123.0,United Kingdom,2,594,589.4399999999999,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13762.0,United Kingdom,1,272,306.72,Synthetic Twin (Phi-3 Engine),Budget
+16045.0,United Kingdom,4,897,1340.7,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17880.0,United Kingdom,1,314,458.92,Synthetic Twin (Phi-3 Engine),Budget
+15705.0,United Kingdom,1,62,143.1,Synthetic Twin (Phi-3 Engine),Budget
+13801.0,United Kingdom,1,168,324.8,Synthetic Twin (Phi-3 Engine),Budget
+12653.0,Israel,2,919,2209.85,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13411.0,United Kingdom,1,72,213.55,Synthetic Twin (Phi-3 Engine),Budget
+16801.0,United Kingdom,4,499,1619.73,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16033.0,United Kingdom,20,3539,8816.4,Synthetic Twin (Phi-3 Engine),VIP
+17491.0,United Kingdom,10,2013,3558.87,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18250.0,United Kingdom,1,199,349.27,Synthetic Twin (Phi-3 Engine),Budget
+17394.0,United Kingdom,1,241,203.86999999999998,Synthetic Twin (Phi-3 Engine),Budget
+15940.0,United Kingdom,1,4,35.8,Synthetic Twin (Phi-3 Engine),Budget
+12747.0,United Kingdom,11,1275,4196.01,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14287.0,United Kingdom,3,261,176.63,Synthetic Twin (Phi-3 Engine),Budget
+16020.0,United Kingdom,3,487,851.01,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17895.0,United Kingdom,1,130,98.0,Synthetic Twin (Phi-3 Engine),Budget
+15489.0,United Kingdom,3,608,1134.28,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16207.0,United Kingdom,1,140,394.38,Synthetic Twin (Phi-3 Engine),Budget
+13986.0,United Kingdom,1,430,320.46,Synthetic Twin (Phi-3 Engine),Budget
+13165.0,United Kingdom,2,1376,1021.48,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13430.0,United Kingdom,2,751,679.4499999999999,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15832.0,United Kingdom,1,465,836.79,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17972.0,United Kingdom,1,37,136.04,Synthetic Twin (Phi-3 Engine),Budget
+17490.0,United Kingdom,7,1134,2092.32,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16764.0,United Kingdom,13,1259,2799.25,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15857.0,United Kingdom,1,308,297.0,Synthetic Twin (Phi-3 Engine),Budget
+12468.0,Germany,2,366,729.54,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17018.0,United Kingdom,2,176,920.1,Synthetic Twin (Phi-3 Engine),Budget
+17637.0,United Kingdom,2,280,547.0600000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16806.0,United Kingdom,4,378,801.49,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17629.0,United Kingdom,8,1629,1814.12,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14652.0,United Kingdom,1,53,114.18,Synthetic Twin (Phi-3 Engine),Budget
+14360.0,United Kingdom,4,1151,2128.23,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12993.0,United Kingdom,4,240,414.76,Synthetic Twin (Phi-3 Engine),Budget
+14389.0,United Kingdom,2,729,1043.46,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18144.0,United Kingdom,12,1343,2888.75,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13844.0,United Kingdom,1,196,361.62,Synthetic Twin (Phi-3 Engine),Budget
+17373.0,United Kingdom,4,408,646.92,Synthetic Twin (Phi-3 Engine),Budget
+17765.0,United Kingdom,3,144,371.88,Synthetic Twin (Phi-3 Engine),Budget
+13001.0,United Kingdom,13,5505,9818.82,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13867.0,United Kingdom,3,513,1015.29,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16091.0,United Kingdom,2,154,315.06,Synthetic Twin (Phi-3 Engine),Budget
+15720.0,United Kingdom,1,281,598.73,Synthetic Twin (Phi-3 Engine),Budget
+13144.0,United Kingdom,1,21,110.95,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15280.0,United Kingdom,1,154,113.12,Synthetic Twin (Phi-3 Engine),Budget
+16690.0,United Kingdom,2,138,225.58,Synthetic Twin (Phi-3 Engine),Budget
+15220.0,United Kingdom,6,1393,1778.96,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14496.0,United Kingdom,2,159,538.8100000000001,Synthetic Twin (Phi-3 Engine),Budget
+14818.0,United Kingdom,3,324,657.8,Synthetic Twin (Phi-3 Engine),Budget
+14346.0,United Kingdom,2,605,1021.58,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16422.0,United Kingdom,51,33704,34684.4,Synthetic Twin (Phi-3 Engine),VIP
+13302.0,United Kingdom,1,5,63.75,Synthetic Twin (Phi-3 Engine),Budget
+12565.0,Saudi Arabia,1,80,145.92,Synthetic Twin (Phi-3 Engine),Budget
+14470.0,United Kingdom,2,193,461.19,Synthetic Twin (Phi-3 Engine),Budget
+12615.0,France,4,1376,2291.19,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17540.0,United Kingdom,2,194,578.9,Synthetic Twin (Phi-3 Engine),Budget
+16513.0,United Kingdom,4,407,874.59,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16365.0,United Kingdom,9,504,1540.42,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13094.0,United Kingdom,12,1716,1927.3200000000002,Synthetic Twin (Phi-3 Engine),VIP
+14887.0,United Kingdom,1,1100,1862.0,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14276.0,United Kingdom,3,744,1119.74,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18233.0,United Kingdom,1,4,440.0,Synthetic Twin (Phi-3 Engine),Budget
+15457.0,United Kingdom,1,132,237.07,Synthetic Twin (Phi-3 Engine),Budget
+13397.0,United Kingdom,5,430,1544.13,Synthetic Twin (Phi-3 Engine),Budget
+17702.0,United Kingdom,4,1353,1824.37,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16412.0,United Kingdom,1,73,151.83,Synthetic Twin (Phi-3 Engine),Budget
+16727.0,United Kingdom,1,177,272.82,Synthetic Twin (Phi-3 Engine),Budget
+17410.0,United Kingdom,5,616,1214.72,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15110.0,United Kingdom,4,246,996.1,Synthetic Twin (Phi-3 Engine),Budget
+13161.0,United Kingdom,1,29,112.75,Synthetic Twin (Phi-3 Engine),Budget
+13106.0,United Kingdom,1,18,76.5,Synthetic Twin (Phi-3 Engine),Budget
+17888.0,United Kingdom,8,980,726.05,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13209.0,United Kingdom,8,4253,5891.61,Synthetic Twin (Phi-3 Engine),VIP
+17320.0,United Kingdom,3,634,1200.6200000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12541.0,Spain,3,680,981.18,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17119.0,United Kingdom,2,334,606.91,Synthetic Twin (Phi-3 Engine),Budget
+17769.0,United Kingdom,10,1862,3997.98,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14790.0,United Kingdom,4,699,745.06,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13623.0,United Kingdom,5,294,747.78,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17839.0,United Kingdom,1,285,338.8,Synthetic Twin (Phi-3 Engine),Budget
+12708.0,Germany,10,1307,2712.91,Synthetic Twin (Phi-3 Engine),VIP
+12462.0,Spain,2,536,1189.59,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16008.0,United Kingdom,3,323,478.78,Synthetic Twin (Phi-3 Engine),Budget
+12642.0,Germany,3,552,1013.26,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17783.0,United Kingdom,2,354,283.47,Synthetic Twin (Phi-3 Engine),Budget
+15774.0,United Kingdom,1,87,270.8,Synthetic Twin (Phi-3 Engine),Budget
+15482.0,United Kingdom,12,5020,11054.96,Synthetic Twin (Phi-3 Engine),VIP
+15687.0,United Kingdom,9,1310,2993.1,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14265.0,Unspecified,2,330,530.18,Synthetic Twin (Phi-3 Engine),Budget
+15356.0,United Kingdom,10,1673,2766.5,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18145.0,United Kingdom,4,2625,2861.5499999999997,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17707.0,United Kingdom,2,144,152.4,Synthetic Twin (Phi-3 Engine),Budget
+16340.0,United Kingdom,1,501,549.07,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12948.0,United Kingdom,7,1080,2064.95,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17278.0,United Kingdom,1,179,246.04,Synthetic Twin (Phi-3 Engine),Budget
+16728.0,United Kingdom,4,677,1054.67,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14353.0,United Kingdom,1,64,90.6,Synthetic Twin (Phi-3 Engine),Budget
+15655.0,United Kingdom,1,324,560.6700000000001,Synthetic Twin (Phi-3 Engine),Budget
+16746.0,United Kingdom,18,4665,6697.66,Synthetic Twin (Phi-3 Engine),VIP
+12380.0,Belgium,4,1127,2724.81,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13682.0,United Kingdom,1,10,59.5,Synthetic Twin (Phi-3 Engine),Budget
+14803.0,United Kingdom,3,370,845.5500000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17858.0,United Kingdom,12,2706,5155.66,Synthetic Twin (Phi-3 Engine),VIP
+17052.0,United Kingdom,1,261,413.75,Synthetic Twin (Phi-3 Engine),Budget
+12569.0,Germany,32,1801,4124.69,Synthetic Twin (Phi-3 Engine),VIP
+15803.0,United Kingdom,1,290,415.82000000000005,Synthetic Twin (Phi-3 Engine),Budget
+14714.0,United Kingdom,1,229,160.19,Synthetic Twin (Phi-3 Engine),Budget
+14442.0,Channel Islands,2,482,1589.82,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18154.0,United Kingdom,2,255,399.19,Synthetic Twin (Phi-3 Engine),Budget
+16403.0,United Kingdom,1,114,177.5,Synthetic Twin (Phi-3 Engine),Budget
+13824.0,United Kingdom,5,768,1698.94,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15858.0,United Kingdom,5,1167,1438.85,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15286.0,United Kingdom,1,55,240.55,Synthetic Twin (Phi-3 Engine),Budget
+12435.0,Denmark,2,2055,7829.89,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12921.0,United Kingdom,37,9526,16587.09,Synthetic Twin (Phi-3 Engine),VIP
+14189.0,United Kingdom,15,3937,4654.08,Synthetic Twin (Phi-3 Engine),VIP
+13751.0,United Kingdom,1,152,296.25,Synthetic Twin (Phi-3 Engine),Budget
+15005.0,United Kingdom,28,4247,6316.57,Synthetic Twin (Phi-3 Engine),VIP
+14262.0,United Kingdom,8,1645,2618.23,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14150.0,United Kingdom,2,496,658.64,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14002.0,United Kingdom,2,877,529.73,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16432.0,United Kingdom,1,276,287.40000000000003,Synthetic Twin (Phi-3 Engine),Budget
+12412.0,Denmark,3,829,1226.88,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12855.0,United Kingdom,1,30,38.1,Synthetic Twin (Phi-3 Engine),Budget
+16321.0,Australia,5,135,373.65,Synthetic Twin (Phi-3 Engine),Budget
+12909.0,United Kingdom,5,1280,2178.67,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15101.0,United Kingdom,2,241,317.53000000000003,Synthetic Twin (Phi-3 Engine),Budget
+13846.0,United Kingdom,3,388,865.0600000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16777.0,United Kingdom,2,64,226.35,Synthetic Twin (Phi-3 Engine),Budget
+13091.0,United Kingdom,1,466,345.82,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15683.0,United Kingdom,1,131,193.75,Synthetic Twin (Phi-3 Engine),Budget
+17489.0,United Kingdom,2,428,376.64,Synthetic Twin (Phi-3 Engine),Budget
+15187.0,United Kingdom,16,1887,4777.18,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12377.0,Switzerland,2,944,1628.1200000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17262.0,United Kingdom,5,367,1253.3600000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18226.0,United Kingdom,11,3466,5228.05,Synthetic Twin (Phi-3 Engine),VIP
+12612.0,Germany,1,262,704.04,Synthetic Twin (Phi-3 Engine),Budget
+12928.0,United Kingdom,5,1472,2062.7,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16823.0,United Kingdom,1,136,358.38,Synthetic Twin (Phi-3 Engine),Budget
+14730.0,United Kingdom,8,1132,2005.06,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17100.0,United Kingdom,2,800,971.74,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15472.0,United Kingdom,1,251,371.56,Synthetic Twin (Phi-3 Engine),Budget
+16050.0,United Kingdom,1,278,137.9,Synthetic Twin (Phi-3 Engine),Budget
+17857.0,United Kingdom,23,19256,26879.04,Synthetic Twin (Phi-3 Engine),VIP
+15844.0,United Kingdom,1,134,130.73999999999998,Synthetic Twin (Phi-3 Engine),Budget
+13791.0,United Kingdom,2,1200,1516.0,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12739.0,United Arab Emirates,2,486,1013.04,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16464.0,United Kingdom,3,963,1314.68,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13507.0,United Kingdom,4,1597,2479.16,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13216.0,United Kingdom,1,297,333.74,Synthetic Twin (Phi-3 Engine),Budget
+18192.0,United Kingdom,1,339,957.97,Synthetic Twin (Phi-3 Engine),Budget
+17701.0,United Kingdom,1,109,417.95,Synthetic Twin (Phi-3 Engine),Budget
+17382.0,United Kingdom,1,25,65.4,Synthetic Twin (Phi-3 Engine),Budget
+17976.0,United Kingdom,1,106,353.19,Synthetic Twin (Phi-3 Engine),Budget
+14356.0,United Kingdom,2,277,701.23,Synthetic Twin (Phi-3 Engine),Budget
+14769.0,United Kingdom,8,7436,10674.75,Synthetic Twin (Phi-3 Engine),VIP
+13037.0,United Kingdom,3,431,881.07,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17664.0,United Kingdom,2,604,604.64,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12500.0,Germany,11,2678,4257.82,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16940.0,United Kingdom,3,2169,3049.88,Synthetic Twin (Phi-3 Engine),VIP
+14784.0,United Kingdom,2,237,289.99,Synthetic Twin (Phi-3 Engine),Budget
+12402.0,Belgium,1,94,225.60000000000002,Synthetic Twin (Phi-3 Engine),Budget
+12703.0,Germany,1,164,283.55,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14299.0,United Kingdom,9,2149,3965.62,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13394.0,United Kingdom,8,2392,2520.02,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17350.0,United Kingdom,4,795,1286.07,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12790.0,Netherlands,1,166,324.92,Synthetic Twin (Phi-3 Engine),Budget
+13704.0,United Kingdom,9,1531,2308.06,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17324.0,United Kingdom,4,844,990.23,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16423.0,United Kingdom,1,230,346.12,Synthetic Twin (Phi-3 Engine),Budget
+15630.0,United Kingdom,2,800,1186.35,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15150.0,United Kingdom,10,3658,5314.47,Synthetic Twin (Phi-3 Engine),VIP
+14689.0,United Kingdom,1,76,112.80000000000001,Synthetic Twin (Phi-3 Engine),Budget
+13047.0,United Kingdom,10,1391,3237.54,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14411.0,United Kingdom,1,196,1063.0,Synthetic Twin (Phi-3 Engine),Budget
+14616.0,United Kingdom,3,104,406.08000000000004,Synthetic Twin (Phi-3 Engine),Budget
+16825.0,United Kingdom,2,566,775.18,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14401.0,United Kingdom,13,4507,4051.48,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15579.0,United Kingdom,2,120,348.6,Synthetic Twin (Phi-3 Engine),Budget
+12659.0,France,1,105,91.68,Synthetic Twin (Phi-3 Engine),Budget
+15026.0,United Kingdom,3,285,469.0,Synthetic Twin (Phi-3 Engine),Budget
+16239.0,United Kingdom,2,228,414.2,Synthetic Twin (Phi-3 Engine),Budget
+15106.0,United Kingdom,5,1181,1422.52,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16909.0,United Kingdom,1,436,379.14,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13203.0,United Kingdom,4,800,869.46,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14930.0,Channel Islands,3,1166,2372.86,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15333.0,United Kingdom,1,344,1028.56,Synthetic Twin (Phi-3 Engine),Budget
+13419.0,United Kingdom,1,275,221.06,Synthetic Twin (Phi-3 Engine),Budget
+14722.0,United Kingdom,1,120,187.92,Synthetic Twin (Phi-3 Engine),Budget
+17204.0,United Kingdom,4,646,1564.56,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17679.0,United Kingdom,2,729,1992.1100000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12705.0,Germany,9,3997,6868.29,Synthetic Twin (Phi-3 Engine),VIP
+15860.0,United Kingdom,8,440,977.21,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13940.0,United Kingdom,4,516,839.14,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18015.0,United Kingdom,1,157,120.03,Synthetic Twin (Phi-3 Engine),Budget
+18205.0,United Kingdom,2,192,517.36,Synthetic Twin (Phi-3 Engine),Budget
+16820.0,United Kingdom,1,307,497.61,Synthetic Twin (Phi-3 Engine),Budget
+14698.0,United Kingdom,5,615,1250.76,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14465.0,United Kingdom,3,405,1058.6200000000001,Synthetic Twin (Phi-3 Engine),Budget
+15563.0,United Kingdom,4,1501,1400.44,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12669.0,France,3,1115,2744.0299999999997,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16200.0,United Kingdom,2,523,1080.6200000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15460.0,United Kingdom,1,109,216.76,Synthetic Twin (Phi-3 Engine),Budget
+14163.0,United Kingdom,4,893,2445.91,Synthetic Twin (Phi-3 Engine),VIP
+16022.0,United Kingdom,1,261,628.28,Synthetic Twin (Phi-3 Engine),Budget
+13319.0,United Kingdom,26,4724,10845.550000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12417.0,Belgium,9,1552,3649.1,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14828.0,United Kingdom,3,2172,2139.76,Synthetic Twin (Phi-3 Engine),VIP
+15880.0,United Kingdom,1,211,343.28000000000003,Synthetic Twin (Phi-3 Engine),Budget
+15436.0,United Kingdom,3,613,1122.53,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15125.0,United Kingdom,15,6193,11528.48,Synthetic Twin (Phi-3 Engine),VIP
+13247.0,United Kingdom,4,328,501.12,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15806.0,United Kingdom,3,602,784.58,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13720.0,United Kingdom,4,501,799.9,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15815.0,United Kingdom,5,1856,2100.6,Synthetic Twin (Phi-3 Engine),Budget
+17038.0,United Kingdom,1,28,112.4,Synthetic Twin (Phi-3 Engine),Budget
+18155.0,United Kingdom,3,266,371.62,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13427.0,United Kingdom,3,545,582.6,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15386.0,United Kingdom,1,446,394.14,Synthetic Twin (Phi-3 Engine),Budget
+13249.0,United Kingdom,3,546,711.41,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15529.0,United Kingdom,11,3496,3995.23,Synthetic Twin (Phi-3 Engine),VIP
+18008.0,United Kingdom,9,1581,2116.19,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15952.0,United Kingdom,4,399,806.57,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16098.0,United Kingdom,7,613,2005.63,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12488.0,France,3,529,1298.66,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15277.0,United Kingdom,1,205,255.89999999999998,Synthetic Twin (Phi-3 Engine),Budget
+15039.0,United Kingdom,47,9209,19914.44,Synthetic Twin (Phi-3 Engine),VIP
+17295.0,United Kingdom,3,294,556.95,Synthetic Twin (Phi-3 Engine),Budget
+17365.0,United Kingdom,8,4777,4801.56,Synthetic Twin (Phi-3 Engine),VIP
+12359.0,Cyprus,4,1622,6372.58,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15237.0,United Kingdom,4,1071,1412.32,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12740.0,France,1,342,427.6,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13421.0,United Kingdom,2,1181,1851.08,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14130.0,United Kingdom,1,258,483.86,Synthetic Twin (Phi-3 Engine),Budget
+18196.0,United Kingdom,2,433,689.13,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13477.0,United Kingdom,6,1021,1454.58,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13322.0,United Kingdom,1,117,199.48000000000002,Synthetic Twin (Phi-3 Engine),Budget
+16992.0,United Kingdom,5,860,1614.31,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15208.0,United Kingdom,5,316,870.12,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14006.0,United Kingdom,3,641,962.19,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17725.0,United Kingdom,11,2162,3439.08,Synthetic Twin (Phi-3 Engine),VIP
+17222.0,United Kingdom,1,128,354.15,Synthetic Twin (Phi-3 Engine),Budget
+16996.0,United Kingdom,6,544,1456.96,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16445.0,United Kingdom,1,111,230.51,Synthetic Twin (Phi-3 Engine),Budget
+14701.0,United Kingdom,9,932,2549.37,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13700.0,United Kingdom,10,2304,2265.12,Synthetic Twin (Phi-3 Engine),VIP
+16247.0,United Kingdom,1,182,114.56,Synthetic Twin (Phi-3 Engine),Budget
+15839.0,United Kingdom,3,675,1048.49,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18246.0,United Kingdom,2,166,596.1,Synthetic Twin (Phi-3 Engine),Budget
+16752.0,United Kingdom,1,54,207.5,Synthetic Twin (Phi-3 Engine),Budget
+15856.0,United Kingdom,27,11005,16387.57,Synthetic Twin (Phi-3 Engine),VIP
+13262.0,United Kingdom,1,125,200.29,Synthetic Twin (Phi-3 Engine),Budget
+17462.0,United Kingdom,2,227,675.69,Synthetic Twin (Phi-3 Engine),Budget
+18097.0,United Kingdom,6,1686,2697.8,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14549.0,United Kingdom,1,136,289.24,Synthetic Twin (Phi-3 Engine),Budget
+14488.0,United Kingdom,1,799,1064.28,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15407.0,United Kingdom,4,558,1056.44,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14847.0,United Kingdom,1,120,309.4,Synthetic Twin (Phi-3 Engine),Budget
+16015.0,United Kingdom,3,909,705.39,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17076.0,United Kingdom,3,295,841.0799999999999,Synthetic Twin (Phi-3 Engine),Budget
+15948.0,United Kingdom,2,567,955.24,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12877.0,United Kingdom,12,1178,1535.77,Synthetic Twin (Phi-3 Engine),VIP
+14541.0,United Kingdom,8,647,1461.65,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17697.0,United Kingdom,1,93,338.95,Synthetic Twin (Phi-3 Engine),Budget
+12625.0,Germany,2,1612,2683.82,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13644.0,United Kingdom,4,2067,2624.26,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15135.0,United Kingdom,1,43,139.05,Synthetic Twin (Phi-3 Engine),Budget
+13730.0,United Kingdom,2,488,752.6,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18156.0,United Kingdom,2,301,734.94,Synthetic Twin (Phi-3 Engine),Budget
+14093.0,United Kingdom,1,406,442.85,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16356.0,United Kingdom,3,93,211.77,Synthetic Twin (Phi-3 Engine),Budget
+15570.0,United Kingdom,12,2067,4165.52,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15505.0,United Kingdom,5,2390,3610.96,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13955.0,United Kingdom,2,154,322.96,Synthetic Twin (Phi-3 Engine),Budget
+16394.0,United Kingdom,5,2604,1555.34,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14280.0,United Kingdom,1,52,134.04,Synthetic Twin (Phi-3 Engine),Budget
+15366.0,United Kingdom,2,621,602.51,Synthetic Twin (Phi-3 Engine),Budget
+17026.0,United Kingdom,2,97,154.83,Synthetic Twin (Phi-3 Engine),Budget
+14024.0,United Kingdom,2,150,327.7,Synthetic Twin (Phi-3 Engine),Budget
+17870.0,United Kingdom,12,1401,1894.35,Synthetic Twin (Phi-3 Engine),VIP
+12577.0,France,3,472,657.8,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14481.0,United Kingdom,2,489,636.51,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15659.0,United Kingdom,1,111,306.45,Synthetic Twin (Phi-3 Engine),Budget
+12981.0,United Kingdom,2,242,372.21999999999997,Synthetic Twin (Phi-3 Engine),Budget
+13732.0,United Kingdom,1,498,491.86,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16567.0,United Kingdom,2,996,865.6,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16565.0,United Kingdom,1,46,173.7,Synthetic Twin (Phi-3 Engine),Budget
+14936.0,Channel Islands,8,4085,8137.0199999999995,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12520.0,Germany,5,1439,2634.2599999999998,Synthetic Twin (Phi-3 Engine),VIP
+13924.0,United Kingdom,6,1575,1838.8500000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15916.0,United Kingdom,8,757,1528.09,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15164.0,United Kingdom,3,360,843.05,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12673.0,Germany,2,351,610.52,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17279.0,United Kingdom,1,48,187.82999999999998,Synthetic Twin (Phi-3 Engine),Budget
+15744.0,United Kingdom,1,120,34.8,Synthetic Twin (Phi-3 Engine),Budget
+17418.0,United Kingdom,2,289,463.46000000000004,Synthetic Twin (Phi-3 Engine),Budget
+12425.0,Portugal,1,496,777.2,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15360.0,United Kingdom,1,223,427.93,Synthetic Twin (Phi-3 Engine),Budget
+15847.0,United Kingdom,2,449,389.27,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15599.0,United Kingdom,2,718,761.74,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15009.0,United Kingdom,3,642,1261.78,Synthetic Twin (Phi-3 Engine),Budget
+16224.0,United Kingdom,4,1116,1295.3,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15664.0,United Kingdom,1,157,386.43,Synthetic Twin (Phi-3 Engine),Budget
+17732.0,United Kingdom,1,93,303.97,Synthetic Twin (Phi-3 Engine),Budget
+13925.0,United Kingdom,4,331,678.25,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17155.0,United Kingdom,2,242,251.7,Synthetic Twin (Phi-3 Engine),Budget
+13799.0,United Kingdom,2,402,688.86,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15301.0,United Kingdom,12,2775,5070.35,Synthetic Twin (Phi-3 Engine),VIP
+16027.0,United Kingdom,6,1147,934.62,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17649.0,United Kingdom,1,399,868.49,Synthetic Twin (Phi-3 Engine),Budget
+17064.0,United Kingdom,3,318,859.35,Synthetic Twin (Phi-3 Engine),Budget
+14957.0,United Kingdom,1,34,58.49,Synthetic Twin (Phi-3 Engine),Budget
+12474.0,Germany,18,4847,7375.79,Synthetic Twin (Phi-3 Engine),VIP
+15475.0,United Kingdom,1,319,454.11,Synthetic Twin (Phi-3 Engine),Budget
+15002.0,United Kingdom,4,862,1641.76,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18005.0,United Kingdom,2,93,249.72,Synthetic Twin (Phi-3 Engine),Budget
+15184.0,United Kingdom,2,223,406.76,Synthetic Twin (Phi-3 Engine),Budget
+13011.0,United Kingdom,1,13,50.550000000000004,Synthetic Twin (Phi-3 Engine),Budget
+18093.0,United Kingdom,4,1392,2106.52,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13803.0,United Kingdom,1,121,277.07,Synthetic Twin (Phi-3 Engine),Budget
+13503.0,United Kingdom,1,248,216.85,Synthetic Twin (Phi-3 Engine),Budget
+15654.0,United Kingdom,2,475,922.53,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14830.0,United Kingdom,1,169,197.13,Synthetic Twin (Phi-3 Engine),Budget
+14054.0,United Kingdom,1,62,92.46000000000001,Synthetic Twin (Phi-3 Engine),Budget
+14257.0,United Kingdom,5,1682,3099.7200000000003,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12689.0,France,2,628,1247.61,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15119.0,United Kingdom,1,88,266.4,Synthetic Twin (Phi-3 Engine),Budget
+17221.0,United Kingdom,2,288,335.13,Synthetic Twin (Phi-3 Engine),Budget
+14782.0,United Kingdom,1,114,200.10000000000002,Synthetic Twin (Phi-3 Engine),Budget
+17148.0,United Kingdom,1,82,124.88,Synthetic Twin (Phi-3 Engine),Budget
+12794.0,Portugal,2,592,860.41,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16800.0,United Kingdom,1,540,1201.49,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12715.0,Sweden,1,197,353.86,Synthetic Twin (Phi-3 Engine),Budget
+16905.0,United Kingdom,7,1408,3102.43,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14236.0,United Kingdom,2,310,490.86,Synthetic Twin (Phi-3 Engine),Budget
+13853.0,United Kingdom,1,312,1090.1399999999999,Synthetic Twin (Phi-3 Engine),Budget
+18173.0,United Kingdom,4,1220,2106.84,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13355.0,United Kingdom,1,314,674.7,Synthetic Twin (Phi-3 Engine),Budget
+15671.0,United Kingdom,7,1699,2657.13,Synthetic Twin (Phi-3 Engine),VIP
+16043.0,United Kingdom,4,503,773.99,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12876.0,Belgium,2,1941,2218.02,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12789.0,Netherlands,1,4,91.85,Synthetic Twin (Phi-3 Engine),Budget
+17616.0,United Kingdom,3,224,571.1999999999999,Synthetic Twin (Phi-3 Engine),Budget
+13990.0,United Kingdom,1,190,311.3,Synthetic Twin (Phi-3 Engine),Budget
+15582.0,United Kingdom,3,453,682.9100000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13923.0,United Kingdom,1,185,351.13,Synthetic Twin (Phi-3 Engine),Budget
+14205.0,United Kingdom,2,204,466.7,Synthetic Twin (Phi-3 Engine),Budget
+16542.0,United Kingdom,1,46,119.62,Synthetic Twin (Phi-3 Engine),Budget
+17463.0,United Kingdom,5,1095,1896.41,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16244.0,United Kingdom,2,855,1522.75,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17163.0,United Kingdom,2,66,293.1,Synthetic Twin (Phi-3 Engine),Budget
+13563.0,United Kingdom,2,209,777.53,Synthetic Twin (Phi-3 Engine),Budget
+17763.0,United Kingdom,1,12,15.0,Synthetic Twin (Phi-3 Engine),Budget
+15405.0,United Kingdom,1,193,349.1,Synthetic Twin (Phi-3 Engine),Budget
+14323.0,United Kingdom,2,350,605.0600000000001,Synthetic Twin (Phi-3 Engine),Budget
+17079.0,United Kingdom,1,24,118.80000000000001,Synthetic Twin (Phi-3 Engine),Budget
+15419.0,United Kingdom,1,230,135.86,Synthetic Twin (Phi-3 Engine),Budget
+14756.0,United Kingdom,1,416,738.96,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15376.0,United Kingdom,3,619,1233.3600000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12479.0,Germany,1,385,527.2,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13568.0,United Kingdom,1,70,192.85,Synthetic Twin (Phi-3 Engine),Budget
+17985.0,United Kingdom,1,183,634.95,Synthetic Twin (Phi-3 Engine),Budget
+18177.0,United Kingdom,6,710,1341.42,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13812.0,Germany,3,333,539.0,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12420.0,Cyprus,1,345,600.39,Synthetic Twin (Phi-3 Engine),Budget
+12438.0,Norway,2,1180,2906.85,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17090.0,United Kingdom,7,921,2043.95,Synthetic Twin (Phi-3 Engine),Mid-Tier
+12815.0,Poland,2,379,1063.46,Synthetic Twin (Phi-3 Engine),Budget
+14048.0,United Kingdom,1,288,409.93,Synthetic Twin (Phi-3 Engine),Budget
+13390.0,United Kingdom,1,224,544.08,Synthetic Twin (Phi-3 Engine),Budget
+15224.0,United Kingdom,2,152,322.08,Synthetic Twin (Phi-3 Engine),Budget
+17924.0,United Kingdom,7,1160,2962.5,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14810.0,United Kingdom,11,1016,2087.88,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17252.0,United Kingdom,2,193,353.86,Synthetic Twin (Phi-3 Engine),Budget
+16341.0,United Kingdom,4,1398,1971.8700000000001,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16384.0,United Kingdom,2,260,584.5,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16354.0,United Kingdom,2,150,395.8,Synthetic Twin (Phi-3 Engine),Budget
+15612.0,United Kingdom,2,52,195.15,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17404.0,Sweden,15,32748,31906.82,Synthetic Twin (Phi-3 Engine),VIP
+14680.0,United Kingdom,16,13476,28754.11,Synthetic Twin (Phi-3 Engine),VIP
+17154.0,United Kingdom,1,490,329.34,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13601.0,United Kingdom,2,548,693.32,Synthetic Twin (Phi-3 Engine),Mid-Tier
+14480.0,United Kingdom,1,143,279.05,Synthetic Twin (Phi-3 Engine),Budget
+16830.0,United Kingdom,1,264,325.91,Synthetic Twin (Phi-3 Engine),Budget
+13565.0,United Kingdom,2,172,240.22,Synthetic Twin (Phi-3 Engine),Budget
+12502.0,Spain,5,820,3723.87,Synthetic Twin (Phi-3 Engine),Mid-Tier
+18096.0,United Kingdom,3,825,911.15,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16466.0,United Kingdom,7,789,1603.46,Synthetic Twin (Phi-3 Engine),Mid-Tier
+13437.0,United Kingdom,7,1283,3408.06,Synthetic Twin (Phi-3 Engine),Mid-Tier
+16729.0,United Kingdom,21,5783,7239.92,Synthetic Twin (Phi-3 Engine),VIP
+14553.0,United Kingdom,5,493,859.27,Synthetic Twin (Phi-3 Engine),Mid-Tier
+17004.0,United Kingdom,2,819,1412.94,Synthetic Twin (Phi-3 Engine),Mid-Tier
+15888.0,United Kingdom,1,76,168.31,Synthetic Twin (Phi-3 Engine),Budget
+15939.0,United Kingdom,15,4728,6115.01,Synthetic Twin (Phi-3 Engine),VIP
+12895.0,United Kingdom,2,210,372.8,Synthetic Twin (Phi-3 Engine),Budget
+14960.0,United Kingdom,2,221,221.27,Synthetic Twin (Phi-3 Engine),Budget
