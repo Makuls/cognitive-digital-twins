@@ -57,6 +57,7 @@ $$T(x) = \begin{cases} 0.2 & \text{if } x \in \text{Low Income} \\ 0.4 & \text{i
 
 **Ablation Study: Parameter Scaling vs. Center-Collapse**
 ![Validity Frontier](validity_frontier.png)
+![New Validity Frontier](updated_validity_frontier.png)
 
 **Final Market Share Alignment**
 ![Model Market Comparison](model_market_comparison.png)
