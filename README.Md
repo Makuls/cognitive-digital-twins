@@ -44,8 +44,8 @@ This research cross-examined multiple architectures to observe the impact of par
 * **Implementation:** See `src/retail_simulator.py`.
 
 ### ✅ Experiment 3: Asymmetric Temperature Scaling (Success)
-* **Approach:** Dynamically altering the inference temperature $T$ based on the deterministic constraint of the consumer's income bracket $x$:
-    $$T(x) = \begin{cases} 0.2 & \text{if } x \in \text{Low Income} \\ 0.4 & \text{if } x \in \text{Mid Income} \\ 0.65 & \text{if } x \in \text{High Income} \end{cases}$$
+* Approach: Dynamically altering the inference temperature $T$ based on the deterministic constraint of the consumer's income bracket $x$:
+$$T(x) = \begin{cases} 0.2 & \text{if } x \in \text{Low Income} \\ 0.4 & \text{if } x \in \text{Mid Income} \\ 0.65 & \text{if } x \in \text{High Income} \end{cases}$$
 * **Result:** Prevented low-income profiles from hallucinating premium purchases while allowing high-income profiles natural behavioral variance.
 * **Implementation:** See `src/bank_simulator.py`.
 
