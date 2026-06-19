@@ -101,3 +101,11 @@ To overcome the LLM's inability to natively map continuous economic variables, t
 $$P(C_i | E) \propto P(E | C_i) P(C_i)$$
 
 This structural grounding is what allows small-parameter edge models to match the complex behavioral distributions of true human populations.
+
+---
+
+## 7. Quantitative Results & Key Findings
+
+The complete experimental metrics, including the 92% reduction in Center-Collapse via RAG calibration and the 89% improvement in outlier adoption via Multi-Agent Debate, are documented in a dedicated file.
+
+📊 **[Click here to view the full Quantitative Results, Tables, and Benchmarks (RESULTS.md)](RESULTS.md)**
