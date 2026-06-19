@@ -80,6 +80,8 @@ To replicate the thesis experiments, execute the following scripts in order:
 4. **`python run_ablation_study.py`**: Runs the head-to-head comparison between Phi-3 (Local) and Llama-3.3-70B (Frontier).
 5. **`python run_comparative_suite.py`**: Generates the final graphical market share comparisons across all models.
 
+### Historical Artifacts (`archive/`)
+* Contains deprecated baseline scripts, uncalibrated zero-shot prompt logs, and the initial Telecom Survey dataset used during early Center-Collapse discovery phases. Not required for current execution.
 ---
 
 ## 5. Datasets & Cross-Domain Validation
