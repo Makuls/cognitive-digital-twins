@@ -53,6 +53,13 @@ $$T(x) = \begin{cases} 0.2 & \text{if } x \in \text{Low Income} \\ 0.4 & \text{i
 * **Approach:** Resolving "Hyper-Frugality" bias by forcing the LLM to generate opposing arguments (Premium Advocate vs. Frugal Advocate) before a final Judge agent makes the decision.
 * **Result:** Restored VIP/Platinum tier adoption rates that a single-agent architecture consistently suppressed.
 * **Implementation:** See `run_multi_agent_bank.py`.
+### 📊 Key Visual Results
+
+**Ablation Study: Parameter Scaling vs. Center-Collapse**
+![Validity Frontier](validity_frontier.png)
+
+**Final Market Share Alignment**
+![Model Market Comparison](model_market_comparison.png)
 
 ---
 
