@@ -1,7 +1,7 @@
 # Cognitive Digital Twins for Consumer Behavior Prediction
 
 ## Abstract
-This project explores whether AI generated synthetic consumers can accurately model real world consumer behaviour before companies spend money on market research, product launches, pricing experiments, or advertising campaigns. During development, I discovered a failure mode called Center Collapse where different consumer personas gradually converged toward the same average behaviour, making simulations unrealistic. To address this, I built a Cognitive Digital Twins framework that combines Retrieval Augmented Generation, dynamic calibration, and Multi Agent Persona Debate to preserve behavioural diversity across consumer groups. The system was evaluated across banking, retail, and telecom scenarios to investigate how closely synthetic consumer populations can align with real world behavioural distributions.
+This project demonstrates how AI generated synthetic consumers can accurately model real world economic behaviour, allowing enterprises to simulate market research, pricing shifts, and product launches in silico. During development, a critical LLM failure mode emerged called Center Collapse where uncalibrated models uniformly regress to middle tier average behaviours, destroying macro level simulation viability. To resolve this, I engineered a deterministic to probabilistic framework combining Bayesian anchored Retrieval Augmented Generation (RAG), Asymmetric Temperature Scaling, and Multi Agent Persona Debate. Evaluated against real world banking, retail, and telecom datasets, the architecture successfully bypassed native RLHF safety biases, restoring long tail behavioral variance and reducing distribution divergence (JSD) by over 92% against human baselines.
 
 ---
 
